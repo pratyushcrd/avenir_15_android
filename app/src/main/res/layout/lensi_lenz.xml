@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1. CONTEST CALENDAR\n\n
+
+• Submission Dates: 13th and 14th April, 2014( First two days of Tech Fest)
+\n\n
+• You can submit your photos till 3 PM on 14th April (2ndday of Fest).
+\n\n
+• Exhibition : 15th April (Final day )
+\n\n
+• Publication of final round result : 15th April 2014
+\n\n
+2. THEME
+\n\n
+” travel and street”
+\n\n
+3. Entry Process
+\n\n
+3.1 GENERAL SUBMISSION GUIDELINES:
+\n\n
+• The registration fee for this event is RS. 30.
+\n\n
+• Entries will be accepted only in digital format.
+\n\n
+• An entrant can submit a maximum of 2 photographs.
+\n\n
+• Entries received without fees will not be accepted.
+\n\n
+• The entry fees once paid is not refundable.
+\n\n
+• Photos should be submitted in a pen drive or a compact disk on the day of the event.
+\n\n
+• Both colour and monochrome photographs are acceptable.
+\n\n
+3.2 IMAGE FILE SPECIFICATIONS:
+\n\n
+• The file extension of images must be .jpg or .jpeg.
+\n\n
+• The photographs must have a dimension of 1024pixel on the
+\n\n
+• The image should not be watermarked or have any
+\n\n
+• No HDR processed image shall be submitted.
+\n\n
+• During submission proper EXIF data should be provided by
+\n\n
+larger side (Vertical or Horizontal) with a resolution of 300dpi.
+\n\n
+border/margin.
+\n\n
+the participant and the same shall be cross checked by the
+\n\n
+organizing committee members.
+\n\n
+3.3 FILE NAME:
+\n\n
+• The file names for each submitted entries must be renamed in
+\n\n
+the following format:
+\n\n
+Name of Author Title of the photograph.jpeg/jpg.
+\n\n
+3.4 JUDGING PROCEDURE:
+\n\n
+• The photographs shall be judged by a panel of eminent and
+\n\n
+• The judge’s decision shall be final and binding for the
+\n\n
+experienced professional photographers.
+\n\n
+acceptance and awards. No question regarding the judging
+\n\n
+procedure shall be entertained.\n"
+            android:padding="15dp"/>
+
+
+
+
+    </LinearLayout>
+</ScrollView>

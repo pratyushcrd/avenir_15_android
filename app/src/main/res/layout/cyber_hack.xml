@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Does ethical hacking amaze you...So here is an event to challenge you..!!
+\n
+\nRules :
+\n
+\n Team size : maximum 2.
+\n
+\n In the first stage there will be objective questions related to programming languages and
+\n
+\nbasic hacking skills.
+\n
+\n In the final stage there will be live-test of system and website hacking(password
+\n
+\ncracking).Basic knowledge of PHP and JAVASCRIPT will be required.
+\n
+\n Software and printed materials can be allowed after permission.
+\n
+\n Use of softcopies will be offensive.
+\n
+\n Phoenix reserves the right to change the rules.
+\n
+\n"
+            android:padding="15dp"/>
+
+
+    </LinearLayout>
+</ScrollView>

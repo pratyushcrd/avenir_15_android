@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="(Sushan chakraborty(8961633002) and Provashis ghosh(9474753345))
+\n
+\n_____________
+\n
+\nRound 1 (qualifying round)
+\n
+\n_______________________
+\n
+\nTime trials
+\n
+\ncar type: stock
+\n
+\nrace type: sprint
+\n
+\nRound 2(1v1)
+\n
+\n____________
+\n
+\ncar type : stock
+\n
+\nRace type: Circuit(2-3 laps)
+\n
+\nCollision : Off
+\n
+\nRound 3(1v1)
+\n
+\n_____________
+\n
+\nCar type: modified
+\n
+\nnos: on
+\n
+\nRace type: circuit/sprint
+\n
+\ncollision: On
+\n
+\nRound 4(finals)
+\n
+\n______________
+\n
+\nCar type: Modified
+\n
+\nraces: 3
+\n
+\nRace 1:circuit
+\n
+\nRace 2:sprint/circuit
+\n
+\nRace 3:world loop
+\n
+\nCollision: On
+\n
+\nNos: On
+\n
+\n We may add an extra round if we need to."
+            android:padding="15dp"/>
+
+
+
+    </LinearLayout>
+</ScrollView>

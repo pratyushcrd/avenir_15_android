@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="The Competition will be in two rounds :
+\n
+\n• Bug Finder (First Round) – In this round an app source will be given and its sample will
+\n
+\nbe shown. There will be 20 bugs and marks will be given according to bugs found with
+\n
+\nnegative points on wrong answers. Top 5 candidates will qualify to next level.
+\n
+\n• App Developer(Second Round) – In this round 3 hours’ time will be allotted to
+\n
+\nall competitors to develop anapp. The app will be given by the admin covering 5
+\n
+\ndifferent type of topic. Internet will be available to all competitors in this round.
+\n
+\n• Most probable topics what competitors should prepare for are
+\n
+\n: *Different types of Activities, Intents and Bundles
+\n
+\n*ActionBar, Fragments,FragmentActivity and
+\n
+\nPagerAdapters *Medias and Camera
+\n
+\n*Animations, Widgets ,SurfaceView/View Classes
+\n
+\n*Different widgets, Basic system functions
+\n
+\n*Threads and Async Class"
+            android:padding="15dp"/>
+
+
+
+    </LinearLayout>
+</ScrollView>

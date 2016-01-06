@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="
+\n
+\nRules and Regulation:
+\n
+\nRound 1~
+\n
+\nA team can consist of maximum 3 members and minimum 1 member.
+\n
+\nA puzzle will be provided to you, solve it to solve the crossword within an hours
+\n
+\ntime.
+\n
+\nTop 20 teams from the first round will qualify to the next round.
+\n
+\nRound 2~
+\n
+\nVarieties of puzzles, cryptograms, brain teasers will be given to you, each lead to a
+\n
+\nclue or some specific item.
+\n
+\nFind the item, get it (BEG, BORROW, STEAL) but bring it along with you when you are
+\n
+\ncoming up to match the answers.
+\n
+\nYou must have the product with you or else correct answer of that puzzle will not be
+\n
+\nheld valid.
+\n
+\nRound 3~
+\n
+\nTop 5 teams from the second round will qualify for the third and the final round.
+\n
+\nIn this round several clues will be given to you, you need to solve them and trace the
+\n
+\npath that leads to the treasure.
+\n
+\nThe team who finds the treasure first wins.
+\n
+\nContacts:  Ritobroto Moitra 8013976041
+\n
+\n©Avenir-2015"
+            android:padding="15dp"/>
+
+
+    </LinearLayout>
+</ScrollView>

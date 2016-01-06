@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Are you the one who really likes taxing your brain, figuring things \'round and \'round till it hits the
+\n
+\nsolution Puzzles fascinate you, right This is for you! Buckle up for the brain-bash! Run against the
+\n
+\nclock and crack your way out of the maze of numbers, alphabets, pictograms and anagrams before
+\n
+\nyour friends does. Win cash prize every hour!
+\n
+\nRules and Regulations:
+\n
+\nThere will be 4-5 rounds of Puzzle Duzzle every day.
+\n
+\n Starting from the time of announcement of a round, an hour\'s time will be given to the
+\n
+\nparticipants to crack the puzzles for the particular set.
+\n
+\n Once a correct entry is received, the round will be declared closed.
+\n
+\n Winner of each round will be awarded cash prize immediately.
+\n
+\nJudging parameters :
+\n
+\nEntries will be judged on the number of correct solutions and of course the time consumed if the
+\n
+\nround had not already been called off with an all correct entry before the one hour span is over."
+            android:padding="15dp"/>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Rules and Regulations:
+\n
+\n There is an option between C or JAVA or C++ for Encoding and a team can opt for either
+\n
+\nof the languages.
+\n
+\n Each team comprises of 1 or 2 members.
+\n
+\n For the prelims there will be 30 questions and the time allotted is 30 minutes.
+\n
+\n For each correct answer 2 marks will be allotted.
+\n
+\n For each wrong answer 1 mark will be deducted.
+\n
+\n An online prelim will be held for the direct entry to the final round (much tougher) .
+\n
+\nFinal Round~
+\n
+\n The finals will take place in 2 rounds.
+\n
+\n In round 1 an algorithm will be given to you, you need to write the code for that algorithm
+\n
+\nand get the desired output. The first round will be a \'lock n key\' round where the output of
+\n
+\nthe given program will be the key to unlock the immediate next question.
+\n
+\n In the 2nd round you will be given 5 algorithms. Attempt whichever you want to,solve them,
+\n
+\nget the desired output and show it to us.
+\n
+\n"
+            android:padding="15dp"/>
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="One of the most basic skills every Civil Engineer should possess is
+\n
+\nthe ability to survey and map a given site or location. AVENIR plans
+\n
+\non putting this skill to the test by conducting a tracking event, where
+\n
+\nboth the parameters i.e., length and bearing will be provided through
+\n
+\nproblems.
+\n
+\n• The solution to the problem will provide the parameters i.e., length
+\n
+\nand bearing.
+\n
+\n• Participants need to use the parameters and surveying equipments
+\n
+\nand techniques to reach their objectives.
+\n
+\n• This is going to test the participant’s abilities to come up with quick
+\n
+\nsolutions to field problems, besides testing their intelligence quotient.
+\n
+\n• All necessary equipments are going to be provided by the
+\n
+\norganizers.
+\n
+\nRULES AND REGULATIONS
+\n
+\n• Teams should consist of 4-5 members
+\n
+\n• The event is open to all
+\n
+\n• Use of calculators or any other electronic devices will lead to
+\n
+\ndisqualification
+\n
+\n• The starting point and ending point of each team will be different.
+\n
+\nTHE QUICKEST TEAM WILL BE DECLARED THE WINNERS.
+\n
+\nNOTE 1: The participants are going to be held responsible for any
+\n
+\ndamages that might occur to the instruments during the competition.
+\n
+\nNOTE 2: Eligible for final round of SERVOLARE, each team will have to
+\n
+\nqualify for preliminary aptitude test.
+\n
+\nNOTE 3: The decision taken by organizers in any aspect will be final.  
+\n
+\nREGARDING ANY CLARIFICATION FEEL FREE TO CONTACT:
+\n
+\nRAHUL MISHRA: - 8013969717
+\n
+\nABHIGYAN PATRA: - 9647411679"
+            android:padding="15dp"/>
+
+
+
+
+    </LinearLayout>
+</ScrollView>

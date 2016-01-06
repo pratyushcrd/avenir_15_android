@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="
+
+Movie, as a form of art can have various interpretations. A movie articulate is all about that! Many of us edit wiki movie reviews and in websites like IMDB! It’s time you place your bets into this competition and Show them what you got! This event showcases the talent in Review writing!
+\n
+Cine Articulate will be held in two rounds
+\n
+Preliminary
+\n
+Final Round
+\n
+
+\n
+Rules and regulation:
+\n
+The event will take place in two rounds.
+\n
+In the first round a short film will be shown to the participants and they have to a write a review within 250 words.
+\n
+From this round 10 participants will be selected for the final round.
+\n
+In the finals another short film will be screened and the participants will have to write a review within 400 words.
+\n
+Language can be either English or Bengali.
+\n
+Judges’ decision is final and irrevocable.
+\n
+\n
+CINE ARTICULATE\n
+EVENT HEADS NAME \t                                           PHONE NUMBER\n
+Rajarshi Roychoudhury \t                                 9477784192\n
+Ayindrila Bhattacharyya \t                                9830038074\n
+
+"
+            android:padding="15dp"/>
+
+    </LinearLayout>
+</ScrollView>

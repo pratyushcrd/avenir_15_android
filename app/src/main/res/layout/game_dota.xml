@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Dota 2 is a multiplayer online battle arena (MOBA) video game and the stand-alone sequel to the
+\n
+\nDefense of the Ancients (DotA) mod. Each match of Dota 2 is independent and involves two teams, both
+\n
+\ncontaining five players and each occupying a stronghold at either end of the map. Located in each
+\n
+\nstronghold is a building called the \'Ancient\'; to win, a team must destroy the enemy\'s Ancient. Each
+        \n
+        \nplayer controls a \'Hero\' character and focuses on levelling up, collecting gold, acquiring items and
+        \n
+        \nfighting against the other team to achieve victory. The Game was officially released on July 9th 2013, but
+        \n
+        \nnow the game has become the most played on Steam, with daily peaks of over 600,000 concurrent
+        \n
+        \nplayers. So all Dota 2 gamers and aspiring players, this is your platform to prove yourself and show what
+        \n
+        \nyou have got. Join the arena with us and unleash the battle.
+        \n
+        \nGeneral Rules:
+        \n
+        \n Each team should submit a full list of its members prior to the beginning of the
+        \n
+        \ntournament. These lists should include all the members of the team.
+        \n
+        \n The teams may include up to 6 players into the submitted list (5 general and 1 reserve
+        \n
+        \nplayers). Player can be replaced only before the match starts; no replacements are
+        \n
+        \npermitted during the match. Name of the captain must also be mentioned.
+        \n
+        \n One player is not allowed to participate in several teams.
+        \n
+        \n All the registered teams must have a specific name. This name must be provided at the
+        \n
+        \ntime of reporting.
+        \n
+        \n Usage of unfair means will lead to immediate disqualification. This decision will be taken by
+        \n
+        \nthe organizers. Teams might also appeal if they feel that their opponents are resorting to
+        \n
+        \nunfair means.
+        \n
+        \nGeneral Game Settings:
+        \n
+        \nPrelims~
+        \n
+        \n There are 16 team slots available for registration (First come first service basis)
+        \n
+        \n Total teams will be divided in two groups after all teams are registered.(Gr A and Gr B)
+        \n
+        \n The order of team matchups is random.
+        \n
+        \n In each series, a coin toss decides which team has Selection Priority. The team with
+        \n
+        \nSelection Priority gets to either pick their side of the map or the drafting order.
+        \n
+        \nMain Event:
+        \n
+        \nThe winners of each Group will go into Upper Bracket 1 and 2 respectively and losers move to
+        \n
+        \nLower Bracket as same.
+        \n
+        \nUpper Bracket 1:
+        \n
+        \nWinners of each group A matches will come into this bracket and matches will commence as per
+        \n
+        \nschedule decided by admins. Top 2 Teams will move into the Quarter Finals.
+        \n
+        \nUpper Bracket 2:
+        \n
+        \nWinners of each group B matches will come into this bracket and matches will commence as
+        \n
+        \nper schedule decided by admins. Top 2 Teams will move into the Quarter Finals.
+        \n
+        \nLower Bracket1:
+        \n
+        \nLosers of each group A matches will come into this bracket and matches will commence as per
+        \n
+        \nschedule decided by admins. The Top 2 teams will play against the 3rd and 4th placed teams
+        \n
+        \nof Upper Bracket 1 for a place in the Quarter Finals.
+        \n
+        \nLower Bracket 2:
+        \n
+        \nLosers of each group B matches will come into this bracket and matches will commence as per
+        \n
+        \nschedule decided by admins. The Top 2 teams will play against the 3rd and 4th placed teams
+        \n
+        \nof Upper Bracket 2 for a place in the Quarter Finals.
+        \n
+        \nQuarter Finals~
+        \n
+        \nThe Top 8 teams will play each other randomly as scheduled by Admins. Such as Game 1, Game 2,
+        \n
+        \nGame 3, Game 4.
+        \n
+        \nSemi Finals~
+        \n
+        \nThe winners of Quarter Finals will play such as Winner of Game 1 Plays with Winner of Game 2- Tier1
+        \n
+        \nWinner of Game 3 Plays with Winner of Game 4- Tier2
+        \n
+        \nFinals~
+        \n
+        \nThe Finals will be played between Winners of Tier 1 and Winners of Tier 2.
+        \n
+        \nIN ANY CASE THE DECISION OF THE ADMINISTRATOR WILL BE FINAL AND ANY TEAM NOT
+        \n
+        \nAGREEING TO IT WILL BE LIABLE TO DISQUALIFICATION. RULES ARE SUBJECT TO CHANGE TILL
+        \n
+        \nLAST MINUTE ACCORDING TO ADMIN\'S DISCRETION"
+            android:padding="15dp"/>
+
+
+
+    </LinearLayout>
+</ScrollView>

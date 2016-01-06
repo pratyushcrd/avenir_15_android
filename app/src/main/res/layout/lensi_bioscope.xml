@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bengal has always been an ideal place for budding Film Makers and Film
+\n\n
+Technicians. Avenir, the Tech Fest organized by Phoenix, The Tech club of NSEC
+\n\n
+salutes the ecstasy of the young generation regarding this form of art, which,
+\n\n
+on the other hand is also a technical event. Movie making has always been one
+\n\n
+of the most prestigious events of Avenir. This time it is back with a bang! Time
+\n\n
+limit is extended! Prize money is increased!
+\n\n
+Register yourselves and submit your movie by 5th April. All the
+\n\n
+shortlisted movies will be screened in front of all the participants. Presence
+\n\n
+of the participants is mandatory on the day of the screening.
+\n\n
+Rules and Regulations:
+\n\n
+• Time limit is 30+1 minutes.
+\n\n
+• Theme is open. A movie can be about anything.
+\n\n
+• Offensive visuals or use of vulgar languages will lead the participant to
+\n\n
+disqualification. If the use of vulgar language is absolutely necessary
+\n\n
+then editors should \'beep it out\'!
+\n\n
+• Films must be submitted in a compact disk by 5th of April.
+\n\n
+• The video format must be compatible with VLC Media Player. And it
+\n\n
+has to be of minimum 480p quality.
+\n\n
+• The sound portion of the movie should be clear and audible.
+\n\n
+• The movie should be an original creation of the team.
+\n\n
+• A team can be consisted of 6 members at max (including the maker,
+\n
+\n
+editor, cinematographer and major casts).
+\n\n
+• A synopsis of the movie is to be submitted along with the movie in
+\n\n
+that same compact disk in doc file.
+\n\n
+• The maker will have to present an overview of the film in front of
+\n\n
+the audience before the movie is screened.
+\n\n
+• Judge’s decision is final and irrevocable.
+\n\n
+• Our respected judge is famous Tollywood actress Ushasie Chakraborty.
+\n\n
+• Only duly registered movies will be considered for the final judgment.
+\n\n
+For submitting movies and other queries, contact us.
+\n\n
+Contact us on: Sayan- 9830861553
+\n\n
+Gourav- 9874688324\n"
+            android:padding="15dp"/>
+
+
+    </LinearLayout>
+</ScrollView>

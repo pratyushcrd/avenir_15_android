@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Lace up your cleats, strap on your shin guards and step onto the pitch and play professional soccer
+\n
+\nyour way in EA Sports\' FIFA Soccer 09. Customized and designed exclusively for the Windows
+\n
+\noperating system, FIFA Soccer 09 allows players to experience authentic soccer simulation on the PC
+\n
+\nplatform as you live the fantasy of playing as a professional soccer player. FIFA 09 delivers
+\n
+\nresponsive, intelligent and realistic physical action and the combination of these enable players to
+\n
+\nbehave according to their physical attributes. Player speed, direction and strength determine
+\n
+\neverything from the severity of the collision to the outcome of possession. So bring out the
+\n
+\nsuperstar within you and get ready to dribble past your opponents to the coveted trophy.
+\n
+\nGeneral Provisions:
+\n
+\nCompetition Method: 1 vs. 1
+\n
+\nGame Mode: International and Club
+\n
+\n Arriving late for a scheduled match may result in a forfeit at the discretion of the Admin.
+\n
+\n At the end of each match, the players must remain seated, remain at the victory/defeat
+\n
+\nscreen and await a referee to record the results. Closing the victory/defeat screen
+\n
+\nwithout being recorded by a referee may result in a default loss.
+\n
+\n Admin reserves the right to install additional software and/or join as an observer for
+\n
+\ntournament operations purposes, such as verifying match results or gathering match data.
+\n
+\n Player changes and strategy changes are limited to 3 times during the game. (The
+\n
+\nchanges before the start of first and second half are not included in this count.)
+\n
+\n Team selection: National and Club teams may be selected by the players. The players are
+\n
+\nallowed to choose the same team.
+\n
+\n The teams will play extra time and penalty also, if the normal time fails to produce
+\n
+\nany result.
+\n
+\n The players may bring their own keyboard, headphone and gaming controller for the event
+\n
+\n(headphones will not be provided).Any software required to be installed for the controllers
+\n
+\nmust be brought before the start of the competition else it will not be entertained.
+\n
+\n The host and client for each match will be decided by a coin toss.
+\n
+\n The teams and player abilities cannot be modified arbitrarily.
+\n
+\n Graphics and other settings may only be setup through the menu. (Configuration file cannot
+\n
+\nbe used). The allowed resolution is 1024x768x32.
+\n
+\n Players on both sides must select the options before they begin the game. No complaints
+\n
+\nregarding settings will be entertained once the game has begun.
+\n
+\nTournament Rules:
+\n
+\nIn the initial rounds of the tournament, each player plays one match against his/her opponent in a
+\n
+\nsingle knockout match.
+\n
+\nAfter the internal and external prelims, once the quarter-finals begin, the first player to win two out
+\n
+\nof three games wins the match and proceeds to the next round. The same rule will be followed in
+\n
+\nthe semi-finals and final.
+\n
+\nStadium Settings:
+\n
+\nStadium: Bay Arena
+\n
+\nWeather: Sunny Day
+\n
+\nWinter: off
+\n
+\nGame Settings:
+\n
+\n Difficulty Level: World Class
+\n
+\n Goalkeeper Difficulty: World Class
+\n
+\n Game Speed: Fast
+\n
+\n Half Length: 6 Minutes
+\n
+\n Injuries: Off
+\n
+\n Bookings: On
+\n
+\n Off side: On
+\n
+\n Radar: On/Transparent
+\n
+\n Maximum Substitutions Allowed: 3
+\n
+\n Manual Cross: ON
+\n
+\n Manual Through-ball: ON
+\n
+\n Auto-switching : OFF
+\n
+\nForbidden Moves:
+\n
+\nThe following rules must be observed:
+\n
+\n The players must kick-off with a backward pass at the beginning of each half and after every
+\n
+\ngoal is scored.
+\n
+\n The players are not allowed to shoot the ball directly onto the crossbar from a corner kick
+\n
+\nin order to get a chance for a header when the ball rebounds.
+\n
+\n It is not allowed to score a goal from one\'s own half of the field.
+\n
+\n It is forbidden to make a throw-in directly into the opponent\'s penalty area. Should a player
+\n
+\nthrow the ball directly into the opponent\'s penalty area he shall be warned. Should he
+\n
+\npersist, he shall be disqualified from the tournament. Any goals resulting from a throw-in
+\n
+\ninto the opponent\'s penalty area will not be counted.
+\n
+\n If a player changes his tactics, formation or line-up he has to kick the ball out of bounds after
+\n
+\nthe changes so that his opponent is able to react.
+\n
+\n There is a bug in FIFA 09 where the ball sometimes enters the goal from the top of the
+\n
+\ncrossbar or from the top or side of the net, and FIFA 09 (PC) considers it a goal. Should such
+\n
+\nbug occur during a match, the player should take note and, at the end of the match, call a
+\n
+\nreferee to confirm the bug with the use of the in-game replay. Should this bug be confirmed,
+\n
+\nthe admin will make an appropriate call.
+\n
+\n In any case, a goal scored due to the use of a FORBIDDEN MOVE shall not be counted.
+        \n
+        \n Should a player persist in playing with forbidden moves, he may be disqualified from the
+        \n
+        \ntournament.
+        \n
+        \nDisconnections:
+        \n
+        \n Disconnection: any connection loss between opponents due to system, network, PC, and/or
+        \n
+        \npower problems/issues.
+        \n
+        \n Intentional disconnection: any connection loss between opponents due to a player\'s actions.
+        \n
+        \nUpon judgment by the referee, the offending player may be charged with a default loss.
+        \n
+        \n Should a disconnection occur:
+        \n
+        \n A referee will confirm the exact score to that point (even if the ball is about to cross the
+        \n
+        \ngoal line, the goal shall not count), and restart the match.
+        \n
+        \n A referee will inform the players on exactly how many minutes must still be played in
+        \n
+        \norder to complete the match.
+        \n
+        \n Any players sent off the field (red card) shall count as a goal each for the opponent when
+        \n
+        \nthe match resumes.
+        \n
+        \n If the disconnection occurs after a corner kick was awarded to a player, the match will
+        \n
+        \nresume with a corner kick for that same player.
+        \n
+        \nUnfair play:
+        \n
+        \nThe following actions will be considered unfair play:
+        \n
+        \n The use of any cheat program
+        \n
+        \n An intentional disconnection
+        \n
+        \n The use of any settings exceeding the standard and permitted settings
+        \n
+        \n Clearly allowing one\'s opponent to win a match.
+        \n
+        \n Unsportsmanlike behavior or, in general, disruptive (e.g., shouting), inappropriate and/or
+        \n
+        \nunprofessional actions directed towards another player (even inside the game).
+        \n
+        \n Upon discovery of any player committing any violations regarded as unfair play, the
+        \n
+        \noffending player, at the sole discretion of the board of referees, may receive a warning, a
+        \n
+        \nforfeit loss or, in extreme cases, be disqualified from the tournament.
+        \n
+        \nNote: Under Any Circumstances, The Decision Of The Administrator Will Be Final And Any Team Not
+        \n
+        \nAgreeing To It Will Be Liable To Disqualification. Rules Are Subject To Change till the Last Minute
+        \n
+        \nAccording To Admin\'s Discretion."
+            android:padding="15dp"/>
+
+
+
+    </LinearLayout>
+</ScrollView>

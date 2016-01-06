@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Theory is the base for any invention and engineering work, but without practical application it does
+\n
+\nnot have any value. Practical knowledge is the thing which distinguishes Engineers from the rest.
+\n
+\nNow-a-days Microprocessors are being extensively used in various industries and a good
+\n
+\nknowledge of the same is very essential. So let us dive into assembly language programming and
+\n
+\nsee which one of us can crack the code!!
+\n
+\nRules and Regulations:
+\n
+\n The complete event is an on spot event and all the rounds would be held at Netaji
+\n
+\nSubhash Engineering College,Kolkata during Avenir 2014.
+\n
+\n Mnemonics is restricted to students currently pursuing their education in any recognized
+\n
+\neducational institute.
+\n
+\n A maximum of 3 participants can combine to form a team.
+\n
+\n Students from different colleges can be a part of the same team.
+\n
+\n The competition will be held in three stages
+\n
+\nRounds:
+\n
+\nRound 1 ~
+\n
+\n This round will consist of 30 multiple choice questions related to microprocessor 8085 and
+\n
+\nits peripherals. Each team will have to solve these questions in the given time.
+\n
+\n The top 10 teams to qualify this round will go to next level.
+\n
+\nRound 2 ~
+\n
+\n In this round each team will be required to solve an interfacing problem related
+\n
+\nto Microprocessor 8085 and its peripherals.
+\n
+\n Teams will be given a kit in which they have to show their output for the problem. Each
+\n
+\nteam has to finish it within the given amount of time.
+\n
+\nRound 3 ~
+\n
+\n In this round judges will ask some question related to Microprocessor 8085 and its
+\n
+\nperipherals.
+\n
+\nJudging Parameters:
+\n
+\nFinal mark will be calculated on the basis of rounds 2 and 3. Decisions of judges will be final in this
+\n
+\nregard."
+            android:padding="15dp"/>
+
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Avenir 15</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="userMessageBoxHint">Enter your message</string>
+    <string name="groupMessageBoxText">No messages as of yet !</string>
+    <string name="sendButtonText">send</string>
+
+
+    <string name="about_clg1">Netaji Subhash Engineering College or NSEC is an engineering college of eastern India located in Kolkata, West Bengal, India. It ranks as one of the top engineering colleges in the state of West Bengal.The college was established in 1998. It is situated at Techno City, Panchpota, Garia in the southern part of Kolkata.</string>
+    <string name="about_ph">Phoenix is the official Tech Club of NSEC responsible for handling all the tech events happening in the college like Brainstormer , Aavahan and Avenir. Phoenix has several teams like Web,Creative,PR,etc. Every student of NSEC is officialy a member of phoenix.</string>
+
+    <string name="about_dev">Pratyush\nContact - +91-8017968694\nFacebook - facebook.com/pratyush.creed</string>
+    <string name="about_asst.">Prashant Kumar\nContact- +91-7278731243\nFacebook  - facebook.com/Prashantkishor.kumar</string>
+
+    <string name="about_contacts">Arindam Sirohia : +91 - 8272928790
+    \nPriya Shrivastav : +91 - 9163963541
+    \nPuja Kumari : +91 - 7278666214
+    \nMeghna Bardhan : +91 - 9903250263</string>
+
+    <string name="main_txt1">\"Avenir, the Annual Techno-Management Fest is organized by Netaji Subhash Engineering College, Kolkata. The fest is designed to initiate sparks of innovation in the upcoming generation of engineering and scientists. Students with technical inclinations and creative abilities from all over India participate in the events to learn, enjoy and upgrade in technical and intellectual domains for three engaging days through which the fest is held in the college campus\"</string>
+    <string-array name="paintings_titles">
+        <item>Starry Night</item>
+        <item>Cafe Terrace at Night</item>
+        <item>Starry Night Over the Rhone</item>
+        <item>Sunflowers</item>
+        <item>Almond Blossoms</item>
+    </string-array>
+    <string-array name="paintings_years">
+        <item>1889</item>
+        <item>1888</item>
+        <item>1888</item>
+        <item>1888</item>
+        <item>1890</item>
+    </string-array>
+    <string-array name="paintings_locations">
+        <item>Museum of Modern Art, New York City</item>
+        <item>Kröller-Müller Museum, Otterlo</item>
+        <item>Musée d\'Orsay, Paris</item>
+        <item>National Gallery, London</item>
+        <item>Van Gogh Museum, Amsterdam</item>
+    </string-array>
+    <string-array name="av_gaming">
+        <item>Counter Strike</item>
+        <item>Fifa</item>
+        <item>Need For Speed</item>
+        <item>8 Ball Pool</item>
+        <item>Dota</item>
+    </string-array>
+    <string-array name="av_cyber">
+        <item>Encoding</item>
+        <item>Web-O-Tronic</item>
+        <item> Hack-Trick</item>
+        <item> Bon-App-etit</item>
+        <item>Crypt-Quest</item>
+        <item>Stack Trace</item>
+    </string-array>
+    <string-array name="av_robo">
+        <item> Metal Mayhem</item>
+        <item> Intrusion</item>
+        <item>Line-Follower</item>
+        <item>Robo-Soccer</item>
+        <item>Terra-Ranger</item>
+        <item>I-Resquer</item>
+    </string-array>
+
+    <array name="event_robotics">
+        <item>@drawable/img_robowar</item>
+        <item>@drawable/img_wallavoider</item>
+        <item>@drawable/img_linefollower</item>
+        <item>@drawable/img_robosoccer</item>
+        <item>@drawable/img_terraranger</item>
+        <item>@drawable/img_iresque</item>
+    </array>
+
+
+    <string-array name="av_general">
+        <item>Mnemonics</item>
+        <item>Inception</item>
+        <item>Contrive</item>
+        <item>Quizzard</item>
+        <item>Dispute</item>
+        <item>Arithmos</item>
+        <item>Puzzle-Duzzle</item>
+        <item>Con-2-Win</item>
+        <item>Knighted</item>
+        <item>Sudoku</item>
+    </string-array>
+
+    <array name="event_general">
+        <item>@drawable/img_mnemonics</item>
+        <item>@drawable/img_inception</item>
+        <item>@drawable/img_contrive</item>
+        <item>@drawable/img_quiz</item>
+        <item>@drawable/img_dispute</item>
+        <item>@drawable/img_arithmos</item>
+        <item>@drawable/img_puzzle</item>
+        <item>@drawable/con2win</item>
+        <item>@drawable/img_chess</item>
+        <item>@drawable/img_sudoku</item>
+    </array>
+
+    <string-array name="av_lensified">
+        <item>Lenz\'s Eye</item>
+        <item>Click-In-Instant</item>
+        <item>Bio-Scope</item>
+        <item>Cine-Articulate</item>
+        <item>Spectrum</item>
+    </string-array>
+
+
+    <string-array name="av_fun">
+        <item>Ad-Enacting</item>
+        <item>Dartboard</item>
+        <item>Face-Painting</item>
+        <item>Free-Wheeling</item>
+        <item>Treasure Hunt</item>
+        <item>Zorb Soccer</item>
+    </string-array>
+
+    <string-array name="av_trending">
+        <item>Tech-Fair</item>
+        <item>Zorb Soccer</item>
+        <item>Bon-App-etit</item>
+        <item>Inception</item>
+
+    </string-array>
+
+    <string-array name="av_nirmaan">
+        <item>Bridge-O-Mania</item>
+        <item>Construzione</item>
+        <item>Survolare</item>
+    </string-array>
+
+    <array name="event_fun">
+        <item>@drawable/img_ad</item>
+        <item>@drawable/dart</item>
+        <item>@drawable/face</item>
+        <item>@drawable/img_free</item>
+        <item>@drawable/treasure</item>
+        <item>@drawable/zorb</item>
+    </array>
+    
+    <array name="event_trending">
+        <item>@drawable/tech_fair</item>
+        <item>@drawable/zorb</item>
+        <item>@drawable/img_android</item>
+        <item>@drawable/img_inception</item>
+    </array>
+
+    <array name="event_gaming">
+        <item>@drawable/img_cs</item>
+        <item>@drawable/img_fifa</item>
+        <item>@drawable/img_nfs</item>
+        <item>@drawable/img_8ball</item>
+        <item>@drawable/img_dota</item>
+    </array>
+    <array name="event_cyber">
+        <item>@drawable/img_encoding</item>
+        <item>@drawable/img_web</item>
+        <item>@drawable/img_hack</item>
+        <item>@drawable/img_android</item>
+        <item>@drawable/img_crypto</item>
+        <item>@drawable/img_stack</item>
+    </array>
+    <array name="event_lens">
+        <item>@drawable/img_lenz</item>
+        <item>@drawable/img_clickin</item>
+        <item>@drawable/img_bio</item>
+        <item>@drawable/img_cine</item>
+        <item>@drawable/spectrum</item>
+    </array>
+
+
+    <array name="event_nirmaan">
+        <item>@drawable/img_bridge</item>
+        <item>@drawable/img_costruzioni</item>
+        <item>@drawable/img_survolare</item>
+    </array>
+    <array name="gallery_drawable">
+        <item>@drawable/gallery_1</item>
+        <item>@drawable/gallery_2</item>
+        <item>@drawable/gallery_3</item>
+        <item>@drawable/gallery_4</item>
+        <item>@drawable/gallery_5</item>
+        <item>@drawable/gallery_6</item>
+    </array>
+    <array name="gallery_title">
+        <item>Preparing for Robo Soccer</item>
+        <item>Chess time</item>
+        <item>Creating something solid</item>
+        <item>Time to cheer up</item>
+        <item>Show off your talent</item>
+        <item>Art at a glance</item>
+    </array>
+
+    <string name="year">Year</string>
+    <string name="location">Location</string>
+    <string name="avenir_intro">\"The Technical Club of Netaji Subhash Engineering College, the people who make this Avenir possible !\n
+Students indulged in ‘Phoenix-ing’ tend to develop various skills which boost their personality and shape up their professional career.\"\n</string>
+
+    <string name="evrule_general">\n     General Rules\n
+        \n
+        >Each team should submit a full list of its members prior to the beginning of the tournament. These lists should include all the members of the team.\n
+        >The teams may include up to 6 players into the submitted list (5 general and 1 reserve players). Player can be replaced only before the match starts; no replacements are permitted during the match. Name of the captain must also be mentioned.\n
+        >One player is not allowed to participate in several teams.\n
+        >All the registered teams must have a specific name. This name must be provided at the time of reporting.\n
+        >Usage of unfair means will lead to immediate disqualification. This decision will be taken by the organizers. Teams might also appeal if they feel that their opponents are resorting to unfair means.\n
+        \n
+        General Game Settings\n
+        \n
+        Rounds\n
+        \n
+        20 Rounds for Prelims. 10 rounds as Terrorists and 10 rounds as Counter-Terrorists per team (If a team scores 11 rounds first, the match is ended immediately.)\n
+        \n
+        30 Rounds for Finals.15 rounds as Terrorists and 15 rounds as Counter-Terrorists per team (If a team scores 16 rounds first, the match is ended immediately.)\n
+        \n
+        Map will be decided on Toss basis.Team winning the toss will eliminate their choice of Map first and then it will continue on alternate basis.\n
+        \n
+        Map Criteria:\n
+        \n
+        Round Time: 1 Minute 45 Seconds\n
+        \n
+        Buy Time: 15 Seconds\n
+        \n
+        Starting money: 800$\n
+        \n
+        C4 timer: 35 seconds\n
+        \n
+        Victory Condition:\n
+        \n
+        The first team to win 11 rounds/16rounds(as per the match)\n
+        In the case of a tie after the regulation rounds end, 6 extra rounds will be played.\n
+        (3 rounds as Terrorists / 3 rounds as Counter-Terrorists per team)\n
+        In the case of yet another tie after the 6 extra rounds, as stated above, 6 additional extra rounds will be played until the tie is broken.\n
+        Official Maps: de_dust2, de_inferno, de_nuke, de_train\n
+        Sides will be chosen via a team vs team knife round. Both teams will rush to a spot chosen by the admin and start the knife fight. The team that has atleast one member standing wins the knife round and can choose the side.\n
+        Tactical shield use is forbidden.\n
+        Approved Grenade Amounts Per Round\n
+        Flashbangs: 2\n
+        Grenades: 1\n
+        Smoke Grenades: 1\n
+        Approved Commands\n
+        Adjust_crosshair\n
+        Left Hand\n
+        A user can use Activate In-Game-VGUI Command\n
+        Default skins must be used.\n
+        Any other use of map or program bugs(eg. flashbang bug) can result in a warning at the minimum or loss by default for the offending team after deliberation and decision by the admins at its sole discretion.\n
+        The gamma rate can be changed in the video graphic driver.\n
+        Boosting (stepping on top of own team player) is permitted.\n
+        Binding Duck to scroll wheel is NOT permitted.\n
+        C4 must be planted at a viewable location. Planting C4 at a location where a boost is required is not permitted.\n
+        When defusing, the player must be able to see a part of the bomb. Defusing through objects is not permitted.\n
+        Silent C4 installation is considered illegal.\n
+        Throwing grenades over buildings on every maps is permitted.\n
+        If disconnection occurs during a match\n
+        If all the players cannot play due to an unintended, unforeseen accident such as server stoppage,\n
+        - Before the 3rd round starts: restart the match.\n
+        - After the 3rd round starts: Disconnected player must re-connect to the server and the round is restarted with 5000$ but the score is counted from before.\n
+        \n
+        In the case of intentional disconnection, the admin may decide to end the match with the offending team losing by forfeit.\n</string>
+
+
+
+
+
+    <string-array name="avenir_gaming">
+        <item>\n     General Rules\n
+\n
+>Each team should submit a full list of its members prior to the beginning of the tournament. These lists should include all the members of the team.\n
+>The teams may include up to 6 players into the submitted list (5 general and 1 reserve players). Player can be replaced only before the match starts; no replacements are permitted during the match. Name of the captain must also be mentioned.\n
+>One player is not allowed to participate in several teams.\n
+>All the registered teams must have a specific name. This name must be provided at the time of reporting.\n
+>Usage of unfair means will lead to immediate disqualification. This decision will be taken by the organizers. Teams might also appeal if they feel that their opponents are resorting to unfair means.\n
+\n
+General Game Settings\n
+\n
+Rounds\n
+\n
+20 Rounds for Prelims. 10 rounds as Terrorists and 10 rounds as Counter-Terrorists per team (If a team scores 11 rounds first, the match is ended immediately.)\n
+\n
+30 Rounds for Finals.15 rounds as Terrorists and 15 rounds as Counter-Terrorists per team (If a team scores 16 rounds first, the match is ended immediately.)\n
+\n
+Map will be decided on Toss basis.Team winning the toss will eliminate their choice of Map first and then it will continue on alternate basis.\n
+\n
+Map Criteria:\n
+\n
+Round Time: 1 Minute 45 Seconds\n
+\n
+Buy Time: 15 Seconds\n
+\n
+Starting money: 800$\n
+\n
+C4 timer: 35 seconds\n
+\n
+Victory Condition:\n
+\n
+The first team to win 11 rounds/16rounds(as per the match)\n
+In the case of a tie after the regulation rounds end, 6 extra rounds will be played.\n
+(3 rounds as Terrorists / 3 rounds as Counter-Terrorists per team)\n
+In the case of yet another tie after the 6 extra rounds, as stated above, 6 additional extra rounds will be played until the tie is broken.\n
+Official Maps: de_dust2, de_inferno, de_nuke, de_train\n
+Sides will be chosen via a team vs team knife round. Both teams will rush to a spot chosen by the admin and start the knife fight. The team that has atleast one member standing wins the knife round and can choose the side.\n
+Tactical shield use is forbidden.\n
+Approved Grenade Amounts Per Round\n
+Flashbangs: 2\n
+Grenades: 1\n
+Smoke Grenades: 1\n
+Approved Commands\n
+Adjust_crosshair\n
+Left Hand\n
+A user can use Activate In-Game-VGUI Command\n
+Default skins must be used.\n
+Any other use of map or program bugs(eg. flashbang bug) can result in a warning at the minimum or loss by default for the offending team after deliberation and decision by the admins at its sole discretion.\n
+The gamma rate can be changed in the video graphic driver.\n
+Boosting (stepping on top of own team player) is permitted.\n
+Binding Duck to scroll wheel is NOT permitted.\n
+C4 must be planted at a viewable location. Planting C4 at a location where a boost is required is not permitted.\n
+When defusing, the player must be able to see a part of the bomb. Defusing through objects is not permitted.\n
+Silent C4 installation is considered illegal.\n
+Throwing grenades over buildings on every maps is permitted.\n
+If disconnection occurs during a match\n
+If all the players cannot play due to an unintended, unforeseen accident such as server stoppage,\n
+- Before the 3rd round starts: restart the match.\n
+- After the 3rd round starts: Disconnected player must re-connect to the server and the round is restarted with 5000$ but the score is counted from before.\n
+\n
+In the case of intentional disconnection, the admin may decide to end the match with the offending team losing by forfeit.\n</item>
+        <item>\n\n       General Provisions\n
+\n
+Competition Method: 1 vs. 1\n
+\n
+\n
+> Game Mode : International and Club\n
+> Arriving late for a scheduled match may result in a forfeit at the discretion of the Admin.\n
+> At the end of each match, the players must remain seated, remain at the victory/defeat screen and await a referee to record the results. Closing the victory/defeat screen without being recorded by a referee may result in a default loss.\n
+> Admin reserves the right to install additional software and/or join as an observer for tournament operations purposes, such as verifying match results or gathering match data.\n
+> Player changes and strategy changes are limited to 3 times during the game. (The changes before the start of first and second half are not included in this count.)\n
+>Team selection: National and Club teams may be selected by the players. The players are allowed to choose the same team.\n
+>The teams will play extra time and penalty also, if the normal time fails to produce any result.\n
+> The players may bring their own keyboard, headphone and gaming controller for the event (headphones will not be provided).Any software required to be installed for the controllers must be brought before the start of the competition else it will not be entertained.\n
+> The host and client for each match will be decided by a coin toss.\n
+> The teams and player abilities cannot be modified arbitrarily.\n
+> Graphics and other settings may only be setup through the menu. (Configuration file cannot be used). The allowed resolution is 1024x768x32.\n
+> Players on both sides must select the options before they begin the game. No complaints regarding settings will be entertained once the game has begun.\n
+\n
+Tournament Rules:\n
+\n
+In the initial rounds of the tournament, each player plays one match against his/her opponent in a single knockout match.\n
+After the internal and external prelims, once the quarter-finals begin, the first player to win two out of three games wins the match and proceeds to the next round. The same rule will be followed in the semi-finals and final.\n
+\n
+STADIUM SETTINGS:\n
+\n
+Stadium: Bay Arena\n
+Weather: Sunny Day\n
+Winter: off\n
+\n
+Game settings\n
+\n
+\n
+>Difficulty Level: World Class\n
+>Goalkeeper Difficulty: World Class\n
+>Game Speed: Fast\n
+>Half Length: 6 Minutes\n
+>Injuries: Off\n
+>Bookings: On\n
+>Off side: On\n
+>Radar: On/Transparent\n
+>Maximum Substitutions Allowed: 3\n
+>Manual Cross: ON\n
+>Manual Through-ball: ON\n
+\n
+Forbidden Moves\n
+\n
+The following rules must be observed:\n
+>The players must kick-off with a backward pass at the beginning of each half and after every goal is scored.\n
+>The players are not allowed to shoot the ball directly onto the crossbar from a corner kick in order to get a chance for a header when the ball rebounds.\n
+>It is not allowed to score a goal from one\'s own half of the field.\n
+>It is forbidden to make a throw-in directly into the opponent\'s penalty area. Should a player throw the ball directly into the opponent\'s penalty area he shall be warned. Should he persist, he shall be disqualified from the tournament. Any goals resulting from a throw-in into the opponent\'s penalty area will not be counted.\n
+>If a player changes his tactics, formation or line-up he has to kick the ball out of bounds after the changes so that his opponent is able to react.\n
+>There is a bug in FIFA 09 where the ball sometimes enters the goal from the top of the crossbar or from the top or side of the net, and FIFA 09 (PC) considers it a goal. Should such bug occur during a match, the player should take note and, at the end of the match, call a referee to confirm the bug with the use of the in-game replay. Should this bug be confirmed, the admin will make an appropriate call.\n
+>In any case, a goal scored due to the use of a "forbidden move" shall not be counted.\n
+>Should a player persist in playing with forbidden moves, he may be disqualified from the tournament.\n
+\n
+Disconnections\n
+\n
+>Disconnection: any connection loss between opponents due to system, network, PC, and/or power problems/issues.\n
+>Intentional disconnection: any connection loss between opponents due to a player\'s actions. Upon judgment by the referee, the offending player may be charged with a default loss.\n
+>Should a disconnection occur:\n
+>A referee will confirm the exact score to that point (even if the ball is about to cross the goal line, the goal shall not count), and restart the match.\n
+>A referee will inform the players on exactly how many minutes must still be played in order to complete the match.\n
+>Any players sent off the field (red card) shall count as a goal each for the opponent when the match resumes.\n
+>If the disconnection occurs after a corner kick was awarded to a player, the match will resume with a corner kick for that same player.\n
+\n
+Unfair play\n
+\n
+The following actions will be considered unfair play:\n
+>The use of any cheat program\n
+>An intentional disconnection\n
+>The use of any settings exceeding the standard and permitted settings\n
+>Clearly allowing one\'s opponent to win a match.\n
+>Unsportsmanlike behavior or, in general, disruptive (e.g., shouting), inappropriate and/or unprofessional actions directed towards another player (even inside the game).\n
+> Upon discovery of any player committing any violations regarded as unfair play, the offending player, at the sole discretion of the board of referees, may receive a warning, a forfeit loss or, in extreme cases, be disqualified from the tournament.\n
+\n
+Note: Under Any Circumstances, The Decision Of The Administrator Will Be Final And Any Team Not Agreeing To It Will Be Liable To Disqualification. Rules Are Subject To Change till the Last Minute According To Admin\'s Discretion.\n</item>
+        <item>\n\n     NFS most wanted rules\n
+\n
+>A person once eliminated he/she can try to qualify only once more during prelims after payment of further entry fee.The decision of the admin regarding any situation will be final and irrevocable.\n
+\n
+Prelims: One-on-one race on any track set by the admin. Only the winner will be selected for Quarter Finals. Only stock cars can be used.\n
+\n
+Quarter FinalsThe contenders will be sorted into groups by the admin. Each group will have to face only one race on any track set by the admin. Only the 1st and 2nd positions from each group will be qualified for semi-finals. Only stock vehicles can be used during Quarter Finals.\n
+\n
+Semi-finalsUpgraded cars can be used during these races. Three races will be conducted on any tracks and any type of race set by the admin. Selection will be based on best-of-three basis. Only the top four will be selected.\n
+\n
+Finals:Finalists will have to race through 5 races. Upgraded cars can be used. Tracks will be set by the admin. The selection of winner will be on best-of-five basis.\n
+\n
+General Rules\n
+\n
+>The decision of the admin regarding any situation will be final and irrevocable.\n
+>Any participant found using unfair means including use of cheat codes will be Disqualified on spot and barred from further entry to the Tournament. Name of the captain must also be mentioned.\n
+>Admin can choose to bar any person from entering the competition.\n
+>External hardware apart from headphones is not allowed.\n
+>Usage of unfair means will lead to immediate disqualification. This decision will be taken by the organizers. Teams might also appeal if they feel that their opponents are resorting to unfair means.\n
+\n
+Disconnection\n
+>Intentional-The participant will be disqualified and barred from further entry to the tournament.\n
+>Unintentional-The race will be restarted.\n
+>Any rules are subject to further changes as per requirements on spot.\n
+>Some Probable Tracks will be: Diamond, Dunwich Bay, Heritage Heights, Bay Bridge, East Park\n</item>
+        <item>Chess
+\n
+\nIts time we draw an ending line to the one handedness of Russia in chess. Vishwanathan Anand showed us the way. Cmon friends, we belong to the country of that person who is right now the undisputed champion of chess across the world. We wil bring India to the top nations playing chess very soon. With the vision of making a few grandmasters in all fields we hereby introduce CHESS-MATE.
+\n
+\n
+\nRules
+\n
+\n>A multistage event, each being an elimination round.
+\n>Decision on both the defensive and offensive playing patterns of the player are tested at the same time.
+\n>A player has to eliminate "Soldiers" of their opponents and earn points. Every "soldier" will carry a definite point which will be creditted to the player. In case of draw, the judgement shall be on strategy.
+\n>Time allotted for each game is a maximum of 20 minutes
+\n>The two finalists shall fight each other till Check-mate
+\n>The color choice will be done by a coin-toss
+\n>In case of draw, the total point shall be considered
+\n>No points for castle or check.the reason is these are all tricks not pieces.One player can give infinite times of check to gain Points
+\n>Board point will be considered only in case of tie in match or selection procedure.
+\n>International chess rules are to be followed.Some relaxation can be made by the judge if it is required in case. otherwise Winning will always get the preference.
+\n>All the round will be knock-out round.
+\n
+\nMove/Piece	Points
+\n>Check mate / Resign	100
+\n>Queen / General	10
+\n>Knight	4
+\n>Bishop	3
+\n>Rook	5
+\n>Pawns	1</item>
+        <item>Sudoku\n
+\n
+\n
+So, have you worked your brain out on the 9*9 grids\n
+\n
+in the newspaper each morning... \n
+\n
+only to find your cup of brewing coffee turn cold later?\n
+\n
+Lost putting numbers in the squares at the back benches \n
+\n
+of the class or in the public transport? \n
+\n
+We value your passion and it is time you were rewarded for it.\n</item>
+        <item/>
+        <item/>
+n</string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_instruc">Instruc</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

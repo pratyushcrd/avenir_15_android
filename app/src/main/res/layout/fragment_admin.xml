@@ -1,0 +1,108 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="50dp"
+    tools:context="creed.phoenix.avenir15.Admin"
+    android:background="#fff">
+
+
+    <RelativeLayout
+        android:layout_width="250dp"
+        android:layout_height="350dp"
+        android:padding="20dp"
+        android:layout_gravity="center"
+        android:background="@drawable/card_back2">
+
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/admin_View1"
+            android:layout_centerInParent="true">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/admin_txt1"
+            android:gravity="center_vertical"
+            android:text="Enter password for the admin panel"/>
+        <EditText
+            android:layout_width="match_parent"
+            android:id="@+id/admin_et1"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:layout_below="@id/admin_txt1"
+            android:layout_height="wrap_content" />
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Enter!"
+                android:id="@+id/admin_bt1"
+                android:textColor="#fff"
+                android:background="#ffff5346"
+                android:layout_marginTop="20dp"
+                android:layout_below="@id/admin_et1"/>
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/admin_View2"
+            android:layout_centerInParent="true">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/admin_txt2"
+                android:gravity="center_vertical"
+                android:text="Title"/>
+            <EditText
+                android:layout_width="match_parent"
+                android:id="@+id/admin_et2"
+                android:gravity="center"
+                android:layout_below="@id/admin_txt2"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/admin_txt3"
+                android:gravity="center_vertical"
+                android:layout_marginTop="20dp"
+                android:layout_below="@id/admin_et2"
+                android:text="Text"/>
+            <EditText
+                android:layout_width="match_parent"
+                android:id="@+id/admin_et3"
+                android:gravity="center"
+                android:layout_below="@id/admin_txt3"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/admin_txt4"
+                android:layout_marginTop="20dp"
+                android:gravity="center_vertical"
+                android:layout_below="@id/admin_et3"
+                android:text="Posted by"/>
+            <EditText
+                android:layout_width="match_parent"
+                android:id="@+id/admin_et4"
+                android:gravity="center"
+                android:layout_below="@id/admin_txt4"
+                android:layout_height="wrap_content" />
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Post Update!"
+                android:textColor="#fff"
+                android:background="#ffff5346"
+                android:id="@+id/admin_bt2"
+                android:layout_marginTop="20dp"
+                android:layout_below="@id/admin_et4"/>
+        </RelativeLayout>
+
+    </RelativeLayout>
+
+</ScrollView>

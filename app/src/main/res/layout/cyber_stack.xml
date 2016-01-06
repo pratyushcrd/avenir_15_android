@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Do you like to find bugs in programs? You consider yourself good at it?
+\n
+\nThen this event is just for you!
+\n
+\nEvent rules :
+\n
+\n-> The event consists of 2 rounds.
+\n
+\n-> In each round, the contestants will be given 5 erroneous codes written in C++ and Java. They will
+\n
+\nhave to find the errors in the code.
+\n
+\n-> Maximum 2 members per team.
+\n
+\n-> In case of tie, the time of submission will be considered to decide a winner.
+\n
+\nAvishek Bhattacharjee - 8334886939"
+            android:padding="15dp"/>
+
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Con 2 Win (also known as Antichess) is a chess variant in which the
+\n
+\nobjective of each player is to lose all of his pieces or be stalemated.
+\n
+\nLosing chess is one of the most popular of all chess variants.
+\n
+\nRules:
+\n
+\nThe rules are the same as those for standard chess, except for
+\n
+\nthe following special rules:
+\n
+\n Capturing is compulsory.
+\n
+\n When more than one capture is available, the player may
+\n
+\nchoose.
+\n
+\n The king has no royal power and accordingly.
+\n
+\n It may be captured like any other piece.
+\n
+\n There is no check or checkmate.
+\n
+\n There is no castling.
+\n
+\n In addition to its normal promotion options, a pawn may
+\n
+\npromote to a king.
+\n
+\n Stalemate is a win for the stalemated player.
+\n
+\n When a player has only a pawn remaining, and the pawn
+\n
+\nis blocked from advancing, the opponent gets unlimited
+\n
+\nmoves until the pawn is freed.
+\n
+\nA player wins by losing all his pieces, or being stalemated.
+\n
+\nApart from move repetition, draw by agreement, and the fifty-
+\n
+\nmove rule, the game is also drawn when a win is impossible
+\n
+\n(such as if a dark-squared bishop and a light-squared bishop
+\n
+\nare the only pieces remaining).
+\n
+\nNOTE:
+\n
+\n                     Organizers have every right to disqualify the
+\n
+\ngame if it is not according to the rules and regulations and
+\n
+\nalso if the participants are found tampering with the
+\n
+\nconduct.
+\n
+\nCONTACTS:
+\n
+\nRegarding any queries, feel free to contact with any of the
+\n
+\nfollowing technical heads:
+\n
+\nAditya Thakur: - 8016426565
+\n
+\nARINDAM MAHATO: - 9933855600"
+            android:padding="15dp"/>
+
+
+    </LinearLayout>
+</ScrollView>

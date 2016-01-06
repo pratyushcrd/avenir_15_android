@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="PROBLEM STATMENT:
+\n
+\nBy virtue of being a top-ranked technical institute in Kolkata, NETAJI SUBHASH ENGINEERING
+\n
+\nCOLLEGE and AVENIR feel their obligation towards society to spread the world of technology
+\n
+\nthroughout the globe. Robotics, needless to say, has been the most interesting field of
+\n
+\ntechnical advancements in recent times!
+\n
+\nIntroduction : Once upon a time there was a king. The king had everything he wanted. But one
+\n
+\nthing the king lacked, he did not have a dream girl so one a day he saddled his strongest horse and
+\n
+\ndeparted in search of a perfect queen all alone. After a long time one night the king arrived at a lake
+\n
+\nand decided to haltand there he saw a beautiful lady. He asked the lady to be queen but she said that
+\n
+\nshe was cursed by a demon. The demon killed her parents and cursed her that she would die if she
+\n
+\ngoes out of lake. But lady told him there was a one way to become free. The king had to travel a
+\n
+\nrough terrain and collect four blue flower. Then he had to climb to the top of the mountain and
+\n
+\nplaced the flower at proper position then he had to dance with some beat of drums until the flower
+\n
+\nturns red..think u r the king..and play this fabulous robo game.
+\n
+\nObjective: To make a manually controlled bot which perform various
+\n
+\nperformance 1.move through various terrain
+\n
+\n2.pick up the block and place it another place.
+\n
+\n3.At last bot have to make a shape using blocks.
+\n
+\nGAMEPLAY: Firstly you have to start from position A. After go through the curvature plane you have to
+\n
+\npick up the block go through the terrain .and placed it in position B*.then you have to go through the
+\n
+\ntwisted bridge. And then again you have to pick up then block and go through the terrain. And then
+\n
+\nplaced it in position E*.and again you have to pick up the block and go through the terrain and placed it
+\n
+\nF*.Then you have to go on stage and make a triangle and square with some block.
+\n
+\nRULES:
+\n
+\nGENERAL RULE:
+\n
+\n? The team can have a maximum of 4 members
+\n
+\n? Any team that is not ready at the time specified will be disqualified from the competition
+\n
+\nautomatically.
+\n
+\n? A team may consist of students from different colleges.
+\n
+\n? The judges’ decision shall be treated as final and binding on all.
+\n
+\n? All students with a valid identity card of their respective educational institutes are eligible
+\n
+\nto participate in the event.
+\n
+\nEvent Structure:
+\n
+\n? Each team get two chance
+\n
+\na. Trail round
+\n
+\nb. Final attempt
+\n
+\n? Marks will be given for final attempt only
+\n
+\n? After finishing round 1 we select team among those grand finale will be happened.
+\n
+\nGAME FORMAT:
+\n
+\n? You have to start from A position and after reaching point B you will get 100 point.
+\n
+\n? From B to C, you will get 25 point.
+\n
+\n? From C to D, you will get 25 point
+\n
+\n? From E to F, you will get 100 point.
+\n
+\n? From F to G, you will get 50 point.
+\n
+\n? For picking the block you will get 25 point and for placing the block you will get 25 point.
+\n
+\n? For making the triangle you will get 200 point and for making the square you will get
+\n
+\n300 point.
+\n
+\nROBOT SPECIFICATION:
+\n
+\n? The robots should be controlled manually.
+\n
+\n? The robot must be wired.
+\n
+\n? The robot cannot have any mechanism that can damage the arena in any manner.
+\n
+\n? The robots shall be inspected before the event. Failing the inspection shall lead to
+\n
+\ndisqualification.
+\n
+\n? The machine must not be made from Lego parts, or any ready-made assembly kits. Readily
+\n
+\navailable chassis layouts are not allowed. Any machine having a ready-made chassis will be
+\n
+\ndisqualified.
+\n
+\nDimensions and Weight:
+\n
+\n? The robot should not be more than 250mm*250mm*250mm (length*breadth*height) in
+\n
+\nsize at the start of the event. It can then extend to any height, but the length and breadth
+\n
+\nshould remain in the limit.
+\n
+\n? The weight of the any robot should not, in any case, exceed 4 kg.
+\n
+\nBatteries and Power:
+\n
+\n? Each team must have their own batteries to power their bots.
+\n
+\n? Voltage must not exceed 24 volts between any two points. External power supply(230v a.c)
+\n
+\nwill be provided."
+            android:padding="15dp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:src="@drawable/ires1"
+            android:padding="0dp"/>
+
+
+    </LinearLayout>
+</ScrollView>

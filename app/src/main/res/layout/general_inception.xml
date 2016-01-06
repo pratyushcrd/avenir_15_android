@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="\n
+\n
+Google wants to know your views on important issues related to Digital Marketing. Here’s your
+\n\n
+chance to do cool things that matter and be a part of the event organised under the Google
+\n\n
+Student Ambassador Program. If you have the ability to come up with quirky innovative
+\n\n
+solutions, then get ready to present your ideas and get noticed.
+\n
+  \n
+\n
+Overview :
+\n\n
+Participating teams are required to come up with innovative ideas and creative solutions to the
+\n\n
+given topics in the form of a presentation. The participants are free to choose among either of
+\n\n
+the two topics
+\n\n
+• Social Media: A Powerful Tool Of Digital Marketing
+\n\n
+• Real Time Marketing: Tactics To Engage Customers
+\n\n
+Date: 14th and 15th April.
+\n\n
+  \n
+\n
+Rules and Regulations:
+\n\n
+• Each team can have a maximum of 3 members.
+\n\n
+• Members can be from different colleges.
+\n\n
+• Teams can bring the raw materials and rough draft of their presentation and abstract.
+\n\n
+• During the event participants may interact with the judges, visitors and mentors to clear
+\n\n
+any doubts they have on the topic.
+\n\n
+• Each team will be given maximum 15 minutes to present their ideas to the judges and
+\n\n
+visitors.
+\n\n
+• The teams that sell their idea to most number of people i.e. get the maximum number
+\n\n
+of votes, will be declared winners.
+\n\n
+• Participants are also required to send their Name, Contact no. , Email id and the name
+\n\n
+of the Institution they are currently attending while sending the abstracts.
+\n\n
+ \n
+\n
+Judging Parameters:
+\n\n
+• Clarity of idea.
+\n\n
+• Layout of the text abstract.
+\n\n
+? Innovation and research.
+\n\n
+? Presentation quality.
+\n\n
+? Nature of delivery.
+\n\n
+? Response to the questions asked by the judges.
+\n\n
+? Quality, originality and versatility of solutions suggested.
+\n\n
+ Register at - http://goo.gl/forms/v3Aor8CmoE"
+            android:padding="15dp"/>
+
+
+    </LinearLayout>
+</ScrollView>

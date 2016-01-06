@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Like designing web page?! Like to play with CSS and
+\nHTML?! This is about the web-designing event
+\n
+\nof Avenir 2015. It will consist of 2 rounds ,
+\n
+\n? A prelims round, and
+\n
+\n? A final round.
+\n
+\nRules and Regulations:
+\n
+\nTeam Size :
+\n
+\nMaximum 2.
+\n
+\nPrelims
+\n
+\n?There will be a 30 minutes test, having 30 Objective type
+\n
+\nquestions testing the basic HTML and CSS
+\n
+\nskills of the participants.
+\n
+\n?The teams scoring above a certain cut-off will advance to
+\n
+\nthe Finals.
+\n
+\nFinal
+\n
+\n?All the teams will be given a simple HTML/CSS template,
+\n
+\na set of instructions and the basic resources required for
+\n
+\ndesigning a web page. Their task is to modify the given
+\n
+\ntemplate as per the given problem statement, and show
+\n
+\ntheir own creativity as well, if possible.
+\n
+\n? Extra features carry additional credits.
+\n
+\n?Time provided to complete the task is 3 hours.The team
+\n
+\nwhich takes the minimum time to fulfill do their job wins.
+\n
+\n?The teams are not allowed to bring any CSS code of their
+\n
+\nown, they have to use from the CSS codes, that we will
+\n
+\nprovide, and modify them.
+\n
+\n?Hardcopy resources can be used for help, no softcopies
+\n
+\nallowed, and also no online help will be provided.
+\n
+\n?The decision of the judges will be final and undisputable.
+\n
+\n? (Additional software like notepad++  or Dreamweaver
+\n
+\nwill be provided)
+\n
+\nContacts :
+\n
+\nGautam kashyap : 9804657214
+\n
+\nPratyush : 8017968694
+\n
+\n"
+            android:padding="15dp"/>
+
+
+    </LinearLayout>
+</ScrollView>

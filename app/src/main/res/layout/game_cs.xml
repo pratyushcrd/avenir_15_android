@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="INTRODUCTION :
+\n
+\n If you are a regular gamer or an occasional amateur, AVENIR 2015 brings you the best
+
+multiplayer game ever !
+
+ your very own CS:GO.\n This first-person shooter puts you to the ultimate challenge of
+
+accuracy, speed, strategy and in-game response. Pull up your sleeves, get your hands on the
+
+keyboard and start target your opponent and fight  for your own team .
+\n
+\nDate :
+\n
+\n      13th-15th april
+\n
+\nRegistration Fees:
+\n
+\n        This event has an entry fess of Rs.750 per team (5 members each team ) which has to be
+
+\npaid on-spot ,on the day of event.
+\n
+\nPrize Money :
+\n
+\n      It depends on participants.
+\n
+\nRules and Regulation :
+\n
+\nPlayer settings
+\n
+\nPlayers are restricted to modifying/adjusting the following game settings:
+\n
+\n  cl_bobcycle 0.98
+\n
+\n weapon_recoil_model 0
+\n
+\n mat_hdr_level 0/1/2
+\n
+\nPlayers are allowed to modify/adjust only the following overlay settings:
+\n
+\n  net_graph 0
+\n
+\n cl_showpos 1
+\n
+\n cl_showfps 1
+\n
+\n cl_showdemooverlay 1/-1
+\n
+\nPlayers are allow to adjust the following PCs or monitor settings:
+\n
+\n Brightness;
+\n
+\n Digital Vibrance;
+\n
+\n Contrast;
+\n
+\n Gamma;
+\n
+\n 3D Settings (aliasing, vertical sync, etc.)
+\n
+\n Game scaling
+\n
+\n USB HZ
+\n
+\n Sound
+\n
+\n Mouse Settings
+\n
+\n Keyboard;Headset.
+\n
+\nPlayers are forbidden to using any kind of overlay that displays the system’s performance
+
+\nwhilplaying (e.g. Nvidia SLI Display, RivaTuner Overlays, etc.).
+\n
+\nServer’s settings
+\n
+\n  The Avenir 2015 servers will use the following game settings:
+\n
+\n mp_startmonay 800
+\n
+\n mp_roundtime 1.75
+\n
+\n mp_roundtime_defuse 1.75
+\n
+\n mp_freezetime 15
+\n
+\n mp_buytime 1
+\n
+\n mp_forcecamera 2
+\n
+\n mp_maxrounds 30
+\n
+\n mp_c4timer 35
+\n
+\n sv_pausable 1
+\n
+\n ammo_grenade_limit_default 1
+\n
+\n ammo_grenade_limit_flashbang 2
+\n
+\n ammo_grenade_limit_total 4
+\n
+\nSettings used for overtime:
+\n
+\n mp_maxrounds 6
+\n
+\n mp_startmoney 10000
+\n
+\nSettings used for warm-up:
+\n
+\n mp_maxrounds 199
+\n
+\n mp_maxmoney 65535
+\n
+\n mp_startmoney 60000
+\n
+\n mp_buytime 15
+\n
+\n mp_freezetime 0
+\n
+\n mp_forcecamera 1
+\n
+\nMaplist
+\n
+\nThe following maps will be played during the entire tournament:
+\n
+\n de_dust_2
+\n
+\n de_nuke
+\n
+\n de_inferno
+\n
+\n de_mirage
+\n
+\n de_cache
+\n
+\n de_overpass
+\n
+\n de_cobblestone
+\n
+\nboth team  captains must be respect the following procedure for map choosing :
+\n
+\n     1. Team B removes one of the 7 maps;
+\n
+\n     2. Team A removes one of the 6 remaining maps;
+\n
+\n     3. Team B removes one of the 5 remaining maps;
+\n
+\n     4. Team A picks the map to be played on;
+\n
+\n     5. The last map remaining will be discarded.
+\n
+\n       Team A will be the winner of a coin toss. The match is played on the map which is selected
+by Team A at step 4 of this procedure. The sides are chosen via a knife round.
+\n
+\nWarm-up
+\n
+\nPlayers get 10 minutes to setup their accessories and warm-up with these before the
+\n
+\ntournament match begins. The official matches will start at their designated time. The
+\n
+\ntournament official will provide up to date information on when to start, so players can get ready
+\n
+\nand warmed up before the match starts.
+\n
+\nAccessories
+\n
+\nPlayers are expected to bring their own accessories such as:
+\n
+\n• Mousepad;
+\n
+\n• Mouse;
+\n
+\n• Keyboard (make sure to bring and test your own ps2-converter);
+\n
+\n• Headphones.
+\n
+\nVictory Condition
+\n
+\nThe first team to win 11 rounds/16rounds(as per the match)
+\n
+\nIn the case of a tie after the regulation rounds end, 6 extra rounds will be played.
+\n
+\n(3 rounds as Terrorists / 3 rounds as Counter-Terrorists per team)
+\n
+\nIn the case of yet another tie after the 6 extra rounds, as stated above, 6 additional
+
+\nextra rounds will be played until the tie is broken.
+\n
+\nRules will remain same but number of rounds may change depending upon the
+
+\nnumber of
+participants. This will be decided on-spot.
+\n
+\nRound Time: 1 minute 45 seconds.
+\n
+\nStarting Money: $800.
+\n
+\nIn the case of a tie after regulation, 6 extra rounds will be played (3 rounds as
+\n
+\nTerrorists / 3
+rounds as Counter-Terrorists per team).
+\n
+\nExtra Round restart money: $10,000.
+\n
+\nIn the case of a re-tie after 6 extra rounds as stated above, the match will be
+
+decided by a
+
+coin toss.
+\n
+\nThe Server Master will record the progress of the match.
+\n
+\nApproved Commands:
+\n
+\nAdjust_crosshair.
+\n
+\nLeft Hand.
+\n
+\nA user can use ‘Activate In-Game-VGUI’ Command.
+\n
+\nDefault skins must be used.
+\n
+\nAny other use of map or program bugs can result in a warning at the minimum or
+
+\nloss by
+default for the offending team after deliberation and decision by the board of
+
+\nreferees at its
+
+sole discretion.
+\n
+\nThe gamma rate can be changed in the video graphic driver.
+\n
+\nMouse sensitivity can be adjusted.
+\n
+\nUnfair Practices which are Subject to Penalty :
+\n
+\nTeam members may communicate verbally if they are alive in the match or only
+when all
+team members are dead.
+\n
+\nThe player is deemed dead when the screen is completely faded to black.
+\n
+\nIf a bug occurs and the screen doesn’t fade to black, the player is deemed dead
+three
+seconds after he/she has fallen.
+\n
+\nAny player who has died cannot communicate by ANY means (No gesture or
+verbal
+\n
+\ncommunication will be allowed) with any other team member or opponent until
+the
+beginning of the next round.
+\n
+\nIf a player continues to communicate after he/she is killed, the team may be
+\n
+given a warning
+\n
+\nor lose by default at the coordinator(s) sole discretion.
+\n
+\nBoosting (stepping on top of own team player) is allowed in play.
+\n
+\nThe players are not allowed to move silently by pressing the Duck key
+repeatedly. A player
+\n
+\nfound using this method may be given a warning or lose by default at the
+\n
+\ncoordinator(s) sole
+\n
+\ndiscretion. (NOTE: Binding duck to scroll wheel of mouse is not allowed.
+\n
+\nBinding jump is
+allowed).
+\n
+\nC4 must be installed at a viewable location. Installing C4 at a location where a
+
+boost is
+\nrequired is not allowed.
+\n
+\nSilent C4 installation is considered bug play. Such an offense may result in a
+warning or loss
+\n
+\nof all remaining TR rounds at the sole discretion of the coordinator(s).
+\n
+\nThrowing grenades over buildings in all maps are allowed.
+\nthe offending team.
+\n
+\nUse of personal model/skins (includes weapon skins).
+\n
+\nUse of personal map texture.
+\n
+\nUse of all cheat programs.
+\n
+\nUse of map bugs in play (e.g. map swimming, auto aim, etc.).
+\n
+\nUse of unfair but available scripts (e.g. silent run, attack + use, center view script,
+
+\nno recoil
+\n
+\nscript, etc.).
+\n
+\nThe server master can and will check for the use of any unfair practice or script,
+\n
+even those
+\n
+\nnot listed above, during each match.
+\n
+\nIf referee decides that external conditions (Press, Team Leader, Player, Spectator,
+\n
+etc) give
+\n
+\nunfair advantage to a player, the team may be given a warning or lose by default
+\n
+at the
+\n
+\ncoordinator(s) sole discretion.
+\n
+\nIf a problem occurs with flash bang bug, the referee reviews the demo file and
+\n
+the offending
+\n
+\nteam loses the round. The match continues normally.
+\n
+\nHLTV Proxy may join the game servers for Tournament Broadcast.
+\n
+\nDisconnection:
+\n
+\nIf disconnection occurs during a match:
+\n
+\nIf all the players cannot play due to an unintended, unforeseen accident such as
+\n
+\nserver
+\n
+\ncrash:
+\n
+\nBefore the 3rd round starts: match is restarted.
+\n
+\nAfter the 3rd round starts: The disconnected player must re-connect to the server.
+\n
+\nThe
+
+\nround is continued and the score till the previous round is considered, and if the
+\n
+\disconnected
+\n
+\nPlayer cannot connect to the server, all players must wait during the freeze time
+\n
+after the
+\n
+\nround until the disconnected player is able to connect to the server. After this
+\n
+time, the
+\n
+\nmatch may continue from that point. (Not a restart).
+\n
+\nIf up to 3 players are unintentionally disconnected: The score for that round is
+\n
+discarded.
+
+\nThe game is paused after the round during the freeze time, and all players wait
+\n
+until the
+\n
+\ndisconnected players are able to connect to the server. When all players are
+\n
+connected, the
+\n
+\nmatch may continue from that point.
+\n
+\nIn the case of intentional disconnection, the coordinator(s) may decide to end the
+\n
+match
+\n
+with the offending team losing by forfeit.
+\n
+\nProtests can only be filed by the team leader/captain.
+\n
+\nIf a player does not agree to any rules, he/she can express his/her protest to the
+\n
+\ncoordinator(s) before the completion of a match. Any intentional refusal to
+
+\nconnect to the
+match server can result in a default loss for that team with the decision to be
+
+\nmade at the
+
+\nsole discretion of the coordinator(s).
+\n
+\nIf a rematch is decided by the coordinator(s), the team that does not follow this
+
+\ndecision will
+
+\nbe subject to disqualification.
+\n
+\nN.B.: All rules are subject to change without prior information
+\n
+\nCONTACT :
+\n
+\n  Ranodeb Banerjee (villen)     7059535574
+\n
+\n  Rajdip Paul (smork)                9038702253
+\n
+\n  Rishav Mitra (Murderer)        8017001649"
+            android:padding="15dp"/>
+
+
+    </LinearLayout>
+</ScrollView>

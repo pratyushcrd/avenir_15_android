@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Event Rules and Regulations:
+\n
+\nOnly 1 entry is allowed per team.
+\n
+\nTeams can be formed by an individual or a group.
+\n
+\nGroups are made up of 2 but not more than 4 members. Projects created by larger groups must be
+\n
+\nrepresented by any 4 members during the demonstration.
+\n
+\nThe project submitted by each team should be one of the following categories:
+\n
+\n• Hardware/Robotics
+\n
+\n• Software Applications
+\n
+\n• Multimedia Projects
+\n
+\n• Web Site Creation
+\n
+\n• General Ideas
+\n
+\nProjects for each category must be unique and not plagiarized or constructed following a tutorial.
+\n
+\nEach team will need to register themselves and submit an abstract at least a week before the day of
+\n
+\nthe fair. An approval letter will then be mailed to each team with further instructions.
+\n
+\nProjects that are not completed by fair time should not be entered.
+\n
+\nParticipants unable to present their projects, even due to illness, may NOT use proxies. However
+\n
+\nother members of the original registered group (if a group project) may represent the whole group,
+\n
+\neven if a member is unable to attend.
+\n
+\nAll equipment needed, such as computers, cables, multi-outlet power strips, extension cords, etc.
+\n
+\nmust be furnished by the contestants. In addition, all software used in the project must be loaded
+••••••••\n
+\nfor demonstration by the contestants. The contestants are responsible for the safety and security of
+\n
+\ntheir equipment and software, not the fair host.
+\n
+\nParticipants must be able to bring in their own equipment and set it up on tables furnished by the
+\n
+\nfair host.
+\n
+\nParticipants should be prepared to explain and demonstrate the highlights of their project in no
+\n
+\nmore than 5 minutes. Time will be provided for setting up equipment.
+\n
+\nThe projects will be judged by three judges. There will be a separate panel of all the HODs of the
+\n
+\ncollege to serve as the jury.
+\n
+\nEach project will be judged on the following criteria:
+\n
+\n• Orginality, creativity and imaginative ability
+\n
+\n• Value and purpose of the project
+\n
+\n• Knowledge of the technology involved
+\n
+\n• Clarity of presentation
+\n
+\n• Ability to answer judges' questions about the project
+\n
+\nEach set of 20 demonstrations will be followed by a half an hour break. It will be a discussion session
+\n
+\nwhere participants can interact with each other and the judges.
+\n
+\nFinally, the results will be announced followed by the prize distribution ceremony.
+\n
+\nAwards will be given for 1st, 2nd, and 3rd place. Honourable mention may be used at the discretion
+\n
+\nof the fair directors.
+\n
+\nCash prizes to be won are:
+\n
+\n1st place – 15,000
+\n
+\n2nd place – 10,000
+\n
+\n3rd place – 5000
+\n
+\nParticipation certificates will be provided to all."
+            android:padding="15dp"/>
+
+
+
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="THEME: Kolkata Life!
+\n
+\nRULES:
+\n
+\n1. There are two groups for this competition:
+\n
+\n(i)  Black and White Variant
+\n
+\n(ii) Color Variant
+\n
+\n2. Each participant can submit at most 2 (two) photographs (soft copy) per group, in JPEG
+\n
+\nformat, 10\' by 15\' in size, resolution 300 dpi. File size of a photograph should not exceed 5 Mb.
+\n
+\nSubmit only formatted print ready photographs.
+\n
+\n3. A caption/write-up (not more than 50 words) must be attached with each photograph in .doc
+\n
+\nformat, along with the submitter\'s name, college’s name, year, email id, phone no., camera
+\n
+\nmodel, technical specifications, date and time.
+\n
+\n4. Watermarking is strictly not allowed.
+\n
+\n5. Participants are requested to mail their photographs to spectrum.avenir2015@gmail.com.
+\n
+\nThe last date of submission is April 8th 2015 till 11:59AM
+\n
+\n6. The best entries from each group will be considered for final round of competition and will be
+\n
+\ndisplayed at Netaji Subhash Engineering College Premises on the 2nd day of Avenir 2015.
+\n
+\n7. The participants of the selected photographs will be notified through email. The registration
+\n
+\nfee for the selected photograph is Rs. 100/- each.
+\n
+\n8. Only duly registered photographs will be considered for the final judgment.
+\n
+\n9. The final judging and announcement of results will be done on Last Day of Avenir 2015 by
+\n
+\nour respected Judge, Mr. Debarshi Duttagupta.
+\n
+\n10. There would be only three winning photographs.
+\n
+\n11. The prizes will be distributed on Last Day of Avenir 2015. Timing will be informed via mail
+\n
+\nor by phone call.
+\n
+\n12. For any further queries, please e-mail us.
+\n
+\nContact: Arghya Mondal [+91 72 7842 7531]"
+            android:padding="15dp"/>
+
+
+    </LinearLayout>
+</ScrollView>

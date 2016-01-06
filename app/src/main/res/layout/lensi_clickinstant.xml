@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="A form of art can be either mutilated by a theme or it can be spontaneous! Do you know how to
+\n
+\ncapture a moment in a frame that can bring out the essence of a festival Out here we will allow
+\n
+\nyou to click throughout our campus all day long and by the end of the day we will anonymously
+\n
+\nselect the winner and the runners up on the basis of excellence in creativity!
+\n
+\nRules and Regulation:
+\n
+\n Any kind of camera is allowed.
+\n
+\n A person can submit only 3 photographs.
+\n
+\n This event will be held on the first and second day of Avenir.
+\n
+\n You will be given a theme just after registration.
+\n
+\n You have to submit your photo(s) on the day of registration only. No photographs of any
+\n
+\nother day shall be accepted.
+\n
+\n Selected finalists will have to produce their views and the ideas behind their photographs on
+\n
+\nthat day.
+\n
+\n Judging will be anonymous."
+            android:padding="15dp"/>
+
+
+
+    </LinearLayout>
+</ScrollView>

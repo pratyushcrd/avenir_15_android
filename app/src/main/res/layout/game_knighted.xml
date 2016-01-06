@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Its time we draw an ending line to the one handedness of Norway in chess... Magnus Carlsen is right
+\n
+\nnow the undisputed champion of chess across the world. We will bring India to the top nations
+\n
+\nplaying chess very soon. With the vision of making a few grandmasters in all fields we hereby
+\n
+\nintroduce CHESS-MATE.
+\n
+\nRules and Regulations:
+\n
+\n A multistage event, each being elimination round.
+\n
+\n Decision on both the defensive and offensive playing patterns of the player are tested at
+\n
+\nthe same time.
+\n
+\n A player has to eliminate \'Soldiers\' of their opponents and earn points. Every \'soldier\' will
+\n
+\ncarry a definite point which will be credited to the player. In case of draw, the judgement
+\n
+\nshall be on strategy.
+\n
+\n Time allotted for each game is a maximum of 20 minutes
+\n
+\n The two finalists shall fight each other till Check-mate
+\n
+\n The colour choice will be done by a coin-toss
+\n
+\n In case of draw, the total point shall be considered
+\n
+\n No points for castle or check. The reason is these are all tricks not pieces. One player can
+\n
+\ngive infinite times of check to gain Points
+\n
+\n Board point will be considered only in case of tie in match or selection procedure.
+\n
+\n International chess rules are to be followed.Some relaxation can be made by the judge if it is
+\n
+\nrequired in case. otherwise Winning will always get the preference.
+\n
+\n All the round will be knock-out round.
+\n
+\nMove/Piece Points
+\n
+\nCheck mate / Resign 100
+\n
+\nQueen / General 10
+\n
+\nKnight 4
+\n
+\nBishop 3
+\n
+\nRook 5
+\n
+\nPawns 1
+\n
+\n@string/app_name"
+            android:padding="15dp"/>
+
+
+
+    </LinearLayout>
+</ScrollView>

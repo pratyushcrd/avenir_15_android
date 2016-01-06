@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Do you find yourself falling for amazing structure and too
+\n
+\ninterested in designing them? Turn up and demonstrate your
+\n
+\ntalents in CAD modelling using Auto CAD.
+\n
+\nRULES AND REGULATIONS
+\n
+\n? A set of questions is to be set by the organisers and is to
+\n
+\nbe chosen by the participants by lucky draw.
+\n
+\n? Each and every question is set according to IS code.
+\n
+\n? Floor Area Ratio(F.A.R)
+\n
+\nF.A.R = Total proposed covered area/land area for land area
+\n
+\nbetween 200 to 500 perform linear interpolation to calculate
+\n
+\npermissible % of coverage.
+\n
+\nRoad
+\n
+\nwidth(m)
+\n
+\n3.5 to 7 1.75
+\n
+\nF.A.R
+\n
+\n? Open space of the
+\n
+\nbuilding.
+\n
+\nHeight of
+\n
+\nbuilding(m
+\n
+\nAbove 7
+\n
+\nto 10
+\n
+\n10 to 12 1.2 3 1.2 5
+\n
+\n?
+\n
+\nBuilding height
+\n
+\nFront
+\n
+\nopen
+\n
+\nspace(
+\n
+\nm)
+\n
+\n1.2 2 1.2 1.2
+\n
+\nRear
+\n
+\nopen
+\n
+\nspace(
+\n
+\nm)
+\n
+\nSide
+\n
+\n1(m)
+\n
+\nSide
+\n
+\n2(m)
+\n
+\nthe
+\n
+\n)
+\n
+\nLoad
+\n
+\nwidth(m)
+\n
+\nPermissibl
+\n
+\ne
+\n
+\nheight(m)
+\n
+\n5 to 7 12.5
+\n
+\n? Stair width
+\n
+\nBuilding
+\n
+\nheight(m)
+\n
+\nAbove 7 to
+\n
+\n10
+\n
+\nAbove 10 to
+\n
+\n12.5
+\n
+\nPermissible
+\n
+\nheight(m)
+\n
+\n1.2
+\n
+\n1.35
+\n
+\n? Ground coverage
+\n
+\nLand area up to 200 = 60% of land area exceeding 500 = 50%.
+\n
+\n? Room requirements
+\n
+\n
+\n
+\nRoom
+\n
+\nsize(m)
+\n
+\nHabitabl
+\n
+\ne room
+\n
+\nKitchen 4.5 1.8
+\n
+\nKitchen
+\n
+\ncum
+\n
+\ndining
+\n
+\nToilet 2.8 1.2
+\n
+\nW.C. 1.2 1.0
+\n
+\nStore 1.5 1.0
+\n
+\nMinimu
+\n
+\nm area
+\n
+\n()
+\n
+\n7.5 2.4
+\n
+\nMinimu
+\n
+\nm width
+\n
+\n(m)
+\n
+\n9.5 2.4
+\n
+\n? The number of participant in each group will be two (2).
+\n
+\n? The entry fee for each team is Rs. 90/-.
+\n
+\nRegarding any queries, feel free to contact the following
+\n
+\nmembers:-
+\n
+\nMukesh Mallick     9563420953
+\n
+\nAnuj Angad Awad Shriastava    9477774719"
+            android:padding="15dp"/>
+
+
+    </LinearLayout>
+</ScrollView>

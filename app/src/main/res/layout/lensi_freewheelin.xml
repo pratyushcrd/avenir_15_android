@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Can u sing Do you think that all the people in the world would listen to you, singing and would stop
+\n
+\nwhatever they were doing for a while and would want to give a thought about the idea that a song tends
+\n
+\nto Can u sketch and can you sketch the face of an idea Can u act Do u think a satire can be powerful
+\n
+\nenough to change the world Can u dance Can you prove that the ideas are not captivated but they are
+\n
+\nfree, they are invulnerable Can you speak and want people to listen to you, while you analyze a picket
+\n
+\nline Or, you only want to do your job so that people can forget about life for a while Its time you hit
+\n
+\nthe streets!
+\n
+\nAfter the grand success in the previous year, Avenir is back with Free Wheelin’.
+\n
+\nWe believe that all the art forms are somehow related if they are driven by a particular idea. Out here,
+\n
+\nwe will provide you with a theme/idea/topic, which you have to implicate in your performance. As this
+\n
+\nwhole idea is inspired from \'Nukkads\' and street arts, and the radical cultural revolution of the sixties, we
+\n
+\nwill provide you with a street corner like atmosphere. No mikes, no amplifiers!
+\n
+\nThis event has two rounds:
+\n
+\n Preliminary Round The Winning teams/participants will be eligible for the Final round.
+\n
+\n The Final Round – Winning teams of the Prelims and those from Aahvaahan (for students
+\n
+\nof Netaji Subhash Engineering College students only) will be eligible for this round.
+\n
+\nRULES and REGULATIONS (same for both the rounds):
+\n
+\n An idea/theme/topic will be provided; participants have to implement that very idea through
+\n
+\ntheir performances.
+\n
+\n Any form of art is allowed and welcome! People can Sing, sing in groups, play instruments, sketch,
+\n
+\npaint, speak, act and direct charades (one-act dramas), recite, dance, dance in groups etc. But key
+\n
+\npoint is you have to implement the given theme through whatever you want to do.
+\n
+\n People from different institution can team up and participate. All you need is a college ID card.
+\n
+\n Offensive languages will lead a participant to disqualification.
+\n
+\n Time limit for each performance is 10+1 minutes.
+\n
+\n Register yourself / your team and be present at the venue by 10:30 A.M on the day of
+\n
+\nthe event.
+\n
+\n Participants, performing in groups, can have maximum 6 people in their groups.
+\n
+\n No electronic appliances will be allowed/provided viz. mikes, amplifiers, cables, lights, mixers
+\n
+\netc. A Street corner like atmosphere will be provided.
+\n
+\n For those who will paint / sketch will have to bring their own equipment like pencil, colors,
+\n
+\nbrushes, or crayons etc.
+\n
+\n Judges’ decision is final and irrevocable.
+\n
+\nThemes:
+\n
+\n1) Preliminary Round:
+\n
+\na) Gulaal :
+\n
+\nColours are an amazing way of expressing oneself. Be it a dark, brooding shade or a
+\n
+\ncheerful and peppy hue, we use colours to paint our consciousness. “Gulaal” or “Abir” is
+\n
+\ncoloured powder used in various festivals. It is incredible how a cloud of red or green or
+\n
+\nyellow gulaal presents a chaotic beauty to us; smearing a loved one with gulaal conveys
+\n
+\na desire to paint the window to their souls with vibrancy.
+\n
+\nThen again, whenever one sees a post-Holi road stained with Gulaal and water forming
+\n
+\na deep, dark red-- one may draw parallels to things much darker bringing distant
+\n
+\nnightmares to memory where once blood flowed freely on those very streets. This topic
+\n
+\nis about showing one\'s true colours. It\'s about bright and vibrant expressions of one\'s
+\n
+\nthoughts.
+\n
+\nb) Basic Instinct :
+\n
+\nThis is a very simple topic and cannot be interpreted in more ways than one. We are
+\n
+\ntalking about THE instinct so integral to the human species that our very psyches are
+\n
+\ntheorized to stem from variations and developments of that very instinct. It is the
+\n
+\nreason why we are here, it is the reason we are alive. Pay homage to the drive that has
+\n
+\nbrought us thus far since our inception-- made us create and made us destroy. Pay your
+\n
+\nrespects to the instinct that made us.
+\n
+\nc) “I’ll be there for you” :
+\n
+\n\'When the rain starts to pour/ Like I\'ve been there before\'. Where would you be
+\n
+\ntoday without your friends and your family Nowhere. Sweep us away with a
+\n
+\nheartwarming performance that honors friendship and loyalty!
+\n
+\nd) Inquilaab :
+\n
+\nFor those who are unaware, Inquilaab is an Urdu word that translates to \'Revolution\'.
+\n
+\nAsk yourself, \'Am I happy with the way the world is right now\' If you think change is
+\n
+\nnecessary, it is your job to bring it and gutless safe-players do not bring change nor are
+\n
+\nthey remembered after they are gone. But you hopefully still know who Subhas Bose
+\n
+\nwas and what he did. You have probably heard of Che Guevara as well. There is a
+\n
+\nreason he is still on our t-shirts and the reason is not \'because he looks so damn cool\'.
+\n
+\nYou know Edward Snowden, Julian Assange and you will always remember Aaron
+\n
+\nSwartz. They were the people whose beliefs were worth their lives.
+\n
+\nLong Live Revolution! Viva La Revolucion! INQUILAAB ZINDABAAD!
+\n
+\n2) Final Round:
+\n
+\na) “Momentary Lapse of Reason”:
+\n
+\nWe have all had that moment when we have experienced this. For those in love, this is
+\n
+\nno longer momentary...but then again, let us not digress. Think of all the impulsive
+\n
+\nthings you have done like buying that expensive useless item you always wanted,
+\n
+\njumping from a high tree branch into the lake on a hot summer\'s day, actually stopping
+\n
+\nto talk to that stranger you have been not been able to take your eyes off of...that
+\n
+\nmoment of indecisiveness followed by an action you would have on more rational states
+\n
+\nof mind would never, ever do. Heck, it is one of those very qualities that make us
+\n
+\nhuman. Mesmerize the audience-- the stage is yours and the possibilities are endless.
+\n
+\nb) :
+\n
+\nThat feeling when you HAVE to have something. Rationality, logic and all that garbage
+\n
+\ngoes out of the window when you are filled with an indomitable wanting. It can be
+\n
+\nanything that you want, it is entirely up to you. Do you want to drop out of college and
+\n
+\nstart Apple Inc. with your friend Wozzy . Do you want to just donate all your
+\n
+\nmoney to charity and embark on a country-wide journey absolutely penniless and call
+\n
+\nyourself Alexander Supertramp . Do you want to travel 150 Km at 1 in the morning
+\n
+\njust to have Keema-Tadka and Roti at Sher-e-Punjaab on a khatiya beside the highway with
+\n
+\nyour friends  at its finest. Do you know what is common in all of these Their
+\n
+\nsheer, pure, unadulterated awesomeness. What is life without it
+\n
+\nc) Dreams :
+\n
+\nWhat are your Dreams like"
+            android:padding="15dp"/>
+
+
+    </LinearLayout>
+</ScrollView>

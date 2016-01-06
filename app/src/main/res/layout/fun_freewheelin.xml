@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Can u sing? Do you think that all the people in the world
+\n
+would listen to you, singing and would stop whatever they
+\n
+were doing for a while and would want to give a thought
+\n
+about the idea that a song tends to? Can u sketch? and can
+\n
+you sketch the face of an idea? Can u act? Do u think a
+\n
+satire can be powerful enough to change the world? Can u
+\n
+dance? Can you prove that the ideas are not captivated but
+\n
+they are free, they are invulnerable? Can you speak and
+\n
+want people to listen to you, while you analyze a picket
+\n
+line? Or, you only want to do your job so that people can
+\n
+forget about life for a while? Its time you hit the streets!
+\n
+After the grand success in the previous year, Avenir is back
+\n
+with Free Wheelin’.
+\n\n
+We believe that all the art forms are somehow related if
+\n
+they are driven by a particular idea. Out here, we will
+\n
+provide you with a theme/idea/topic, which you have to
+\n
+implicate in your performance. As this whole idea is
+\n
+inspired from \'Nukkads\' and street arts, and the radical
+\n
+
+cultural revolution of the sixties, we will provide you with a
+\n
+street corner like atmosphere. No mikes, no amplifiers!
+\n\n
+This event has two rounds:
+\n\n
+l Preliminary Round The Winning teams/participants will be
+\n
+eligible for the Final round.
+\n\n
+l The Final Round – Winning teams of the Prelims and those
+\n
+from Aahvaahan (for students of Netaji Subhash
+\n\n
+Engineering College students only) will be eligible for this
+\n
+round.
+\n\n
+RULES and REGULATIONS (same for both the
+
+rounds):
+\n\n
+l An idea/theme/topic will be provided; participants have to
+\n
+implement that very idea through their performances.
+\n\n
+l Any form of art is allowed and welcome! People can Sing, sing
+\n
+in groups, play instruments, sketch, paint, speak, act and
+\n
+direct charades (one-act dramas), recite, dance, dance in
+\n
+groups etc. But key point is you have to implement the
+\n
+given theme through whatever you want to do.
+\n
+l People from different institution can team up and
+\n
+participate. All you need is a college ID card.
+\n\n
+l Offensive languages will lead a participant to
+\n
+disqualification.
+\n\n
+l Time limit for each performance is 10+1 minutes.
+\n\n
+l Register yourself / your team and be present at the venue
+\n
+by 10:30 A.M on the day of the event.
+\n\n
+l Participants, performing in groups, can have maximum 6
+\n
+people in their groups.
+\n\n
+l No electronic appliances will be allowed/provided viz.
+\n
+mikes, amplifiers, cables, lights, mixers etc. A Street corner
+\n
+like atmosphere will be provided.
+\n\n
+l For those who will paint / sketch will have to bring their
+\n
+own equipment like pencil, colors, brushes, or crayons etc.
+\n\n
+l Judges’ decision is final and irrevocable.
+\n
+"
+            android:padding="15dp"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:src="@drawable/free_theme"
+            android:padding="0dp"/>
+
+
+
+    </LinearLayout>
+</ScrollView>

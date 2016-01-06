@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=" Problem Statement:
+\n
+\nDesign an autonomous vehicle which is capable of following black line on a white surface.
+\n
+\n? General Rules:
+\n
+\n• The participant must be a regular student of AICTE approved /UGC recognized Technical or
+\n
+\nManagement Institute.
+\n
+\n• All students must have a valid identity card of their respective educational institute.
+\n
+\n• Any team that is not ready at the time specified will be eliminated from the competition
+\n
+\nautomatically.
+\n
+\n• The team must adhere to the spirit of healthy competition. Judges reserve the right to disqualify
+\n
+\nany team indulged in misbehavior.
+\n
+\n• Certificate of excellence will be awarded to all the winners.
+\n
+\n• Participants from different institutes may form a team.
+\n
+\n• Event rules can be subjected to change.
+\n
+\n• Damaging any property (arena/systems) will lead to the disqualification.
+\n
+\n• Participants should not have any objection on the predefined rules.
+\n
+\n• Judges decision shall be treated as final and binding on all.
+\n
+\n•Involvement of a participant in two teams is strictly prohibited,
+\n
+\nviolating this rule will lead to disqualification of both the teams.
+\n
+\n? ROBOT specification and Gameplay:-
+\n
+\n•The microcontroller on-board must be an 8-bit microcontroller
+\n
+\n• Line will be of 2 cm width.
+\n
+\n• There will be numerous breaks in the path(maximum gap-3.5 to 4 cm) The bot has to check the next
+\n
+\navailable route and follow that.
+\n
+\n• Check points are horizontal strip of black lines of  length 8/9cm and width 2 cm, the bot has to detect
+\n
+\nthe strip by glowing led or buzzer.
+\n
+\n• The room in which the event will take place will be relatively dark.
+\n
+\n• Maximum team size must be 4 members.
+\n
+\n• Robots must be autonomous and in case of external power supply the wire must remain slacked all
+\n
+\nthe time.
+\n
+\n• LEGO kits are not allowed, however the participants can use readymade sensors, microcontroller
+\n
+\nboards, chassis and programmers.
+\n
+\n• Maximum dimensions of the robot should be 25*25*25 cm.
+\n
+\n• The power supply for the vehicle cn be on-board/off-board, and should not exceed 15V
+\n
+\n• The event consists of two rounds: – Elimination round and the Final round.
+\n
+\n• The track will consist of sharp(90 and obtuse turn) as well as smooth turns.
+\n
+\n• Nudging/Pushing or any type of manual handling of the robot will lead to cancellation of that run.
+\n
+\n• The path will of black colour on a white background.
+\n
+\n• The organizers will ensure that the track is located within a typical indoor environment in so far as
+\n
+\nis feasible. No request to adjust the lighting shall be entertained.
+\n
+\n? Contact:
+\n
+\nRohit Gupta-8981524193
+\n
+\nDipankar Sarkar-8013396876"
+            android:padding="15dp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:src="@drawable/line1"
+            android:padding="0dp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:src="@drawable/line2"
+            android:layout_marginTop="1dp"/>
+
+
+    </LinearLayout>
+</ScrollView>

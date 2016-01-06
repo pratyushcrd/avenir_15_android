@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Avenir 2K15 proudly presents Zorb Mania -a mega zorbing event to be conducted for the first time ever  in  NSEC. It will be having two major highlights -Body Zorb battling and Zorb Soccer.
+\n
+\nZorb Soccer Rules
+\n•	No cleats or studded shoes.
+\n•	No sharp objects to be on the field or near the Zorb balls
+\n•	Zorb balls are not to be taken off the court.
+\nStart of Play
+\n  Both teams will start around the kick-off circle and on the refs whistle play will start.
+\nTeam Rules
+\n•	Each team will have a maximum of two players.
+\n•	The aim is to score goals while defending one’s own goal from the opposing team.
+\n•	Uniforms are not required as players will be provided with jackets to identify their teams during play
+\n•	Players can only be bumped to the ground if they are within 5 metres of the ball.
+\n
+\nTime
+\nEach game will last for a total of 6 minutes.
+\nOff Field / Trapped Ball
+\nShould a ball be kicked off field a ref or substitute player shall retrieve the ball and put it back in play by passing to someone from the opposite team.
+\nShould a ball be trapped in a zorb ball or under  a zorb ball the referee will stop play so it can be retrieved.
+\nDangerous Plays
+\nThe referee has the right to stop play if they believe someone is about to be hurt including people who have been knocked down.
+\n
+\nBodyZorb Battle Rules
+\n
+\n•	Hold the handles
+\n•	Stay in the designated area
+\n•	Always be alert and ready to fall
+\n•	You can crash into each other and roll around.
+\n•	Do not hit anyone until they are fully upright and ready
+\n
+\nInjuries
+\nExisting injuries must be sufficiently protected to the satisfaction of our referees. This includes open wounds or wounds not fully healed. As unlikely as it is, any injuries will require the referee to stop play and substitute that player. The injured player may be allowed to continue playing if the injury is minor and appropriate first aid has been applied by a teammate.
+\n"
+            android:padding="15dp"/>
+
+
+
+
+    </LinearLayout>
+</ScrollView>

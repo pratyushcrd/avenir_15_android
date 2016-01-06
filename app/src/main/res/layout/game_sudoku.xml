@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="So, have you worked your brain out on the 9*9 grids in the newspaper each morning... only to find
+\n
+\nyour cup of brewing coffee turn cold later Lost putting numbers in the squares at the back benches
+\n
+\nof the class or in the public transport
+\n
+\nWe value your passion and it is time you were rewarded for it."
+            android:padding="15dp"/>
+
+
+
+    </LinearLayout>
+</ScrollView>

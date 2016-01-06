@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Cowed down by paramount pressure of academics Unable to handle it and need a gush of fresh
+\n
+\nair Well, we provide you the perfect platform and golden opportunity to rack your brains and prove
+\n
+\nyour mettle in a different arena -the world of quizzing. An intriguing battle await as we expect full
+\n
+\nparticipation from all the budding quizzers with a true spirit of sportsmanship.
+\n
+\nThe event QUIZZARD is an open quiz event.
+\n
+\nRules and Regulations:
+\n
+\n THERE CAN BE MAXIMUM 3 MEMBERS IN EACH TEAM.
+\n
+\n 6 TOP-SCORING TEAMS OF THE PRELIMS ROUND WILL BE SELECTED TO COMPETE IN
+\n
+\nTHE FINALS TO BE HELD ON THE SAME DAY."
+            android:padding="15dp"/>
+
+
+    </LinearLayout>
+</ScrollView>

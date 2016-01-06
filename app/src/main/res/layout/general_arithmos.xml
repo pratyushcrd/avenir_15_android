@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="For the Maths lovers! Solve different kind of problems.
+\n
+\nArithmos will be conducted in two rounds prelims and mains.
+\n
+\nRules and Regulations :
+\n
+\nPrelims ~
+\n
+\n All the questions in the prelims will be of objective type.
+\n
+\n There will be 25 questions in the prelims.
+\n
+\n Every question will have only one correct alternative.
+\n
+\n Each question carries 3 marks.
+\n
+\n For every incorrect answer 1 mark will be deducted.
+\n
+\n Zero will be given for no response.
+\n
+\n Choosing more than one option will be treated as incorrect response.
+\n
+\nMains ~
+\n
+\nQuestions in the mains will be of subjective type.
+\n
+\nContacts :
+\n
+\nSagnik - 9476361230
+\n
+\nSampreet - 7278625973
+\n
+\nManab – 7685969265"
+            android:padding="15dp"/>
+
+
+    </LinearLayout>
+</ScrollView>

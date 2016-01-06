@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="-Size doesn’t matter, Courage does
+\nAIM:
+\n
+\nBuild a manual robot that can combat with the opponent in the provided arena overpowering
+\n
+\nobstacles and hurdles.
+\n
+\nRULES:
+\n
+\nGENERAL RULES:
+\n
+\n The maximum team size is 4.
+\n
+\n The participants must be students of same/different college(s).
+\n
+\n An individual cannot be part of more than one team.
+\n
+\n The participating team found guilty of damaging the arena in anyway will be penalized
+\n
+\nor even disqualified.
+\n
+\n The decisions of the judges will be final and irrevocable.
+\n
+\n Organizers reserve the right to change any of the above rules they deems to be fit.
+\n
+\n Arena can be change at any point of time of the competition.
+\n
+\n Participants must bring the valid identity card of their institutes.
+\n
+\nRobot Specification:
+\n
+\n The dimension of the robot must be 60cm x 60cm x 60cm at any point of the event.
+\n
+\n Maximum weight allowed is 30 kg including on board batteries. Weight of remote
+\n
+\ncontroller will not be counted.
+\n
+\nMobility:
+\n
+\n Robot should have visible and controlled mobility in order to compete.
+\n
+\n Motion of robot should be continuous. Jumping, hopping, or flying is not allowed.
+\n
+\nRobot Control requirements:
+\n
+\n Robot can be wireless or wired.
+\n
+\n In wired remote control the potential difference of the input in the remote should
+\n
+\nnot exceed 48V at any point of the event.
+\n
+\n In wireless remote the input may exceed 12V.
+\n
+\n Damage to arena will cause to instant disqualification.
+\n
+\nBattery and Power:
+\n
+\n We will provide only one plugin point of 220 v ac supply for each team.
+\n
+\n On board batteries must be sealed.
+\n
+\n All efforts must be made to protect battery fire, failing to do so will lead into
+\n
+\ndirect disqualification
+\n
+\n Use of damaged and leaked batteries is not allowed.
+\n
+\n Change of batteries will not be allowed during the match.
+\n
+\n Batteries of bot should be on board only.
+\n
+\nHydraulics:
+\n
+\n Liquid used in hydraulics should be inflammable.
+\n
+\n Pressure maximum allowed is 1bar.
+\n
+\nWeapon System:
+\n
+\n Robot can have any type of weapon system. Ex: magnetic weapons, cutters, flippers, saws,
+\n
+\nlifting devices, hammers etc. but it should be fitted properly. The safety of the bot will be
+\n
+\njudged by the coordinators. Their decision will be the final one.
+\n
+\nLimitations:
+\n
+\n Wire cutting not allowed.
+\n
+\n No weapon should come in contact with arena at any point of time.
+\n
+\nArena:
+\n
+\n
+\n
+\nWill be updated soon.
+\n
+\nContacts:
+\n
+\n Pratik Banerjee – (+91) 9804609169
+\n
+\n Neel Nandy – (+91) 7278643012"
+            android:padding="15dp"/>
+
+
+
+    </LinearLayout>
+</ScrollView>

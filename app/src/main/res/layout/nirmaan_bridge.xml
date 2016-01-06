@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="
+\n
+\nBRIDGE-O-MANIA was a newly launched event in AVENIR
+\n
+\n2014. Students of Civil engineering branch and those who
+\n
+\ninterested in this field may come up with their innovative
+\n
+\nimagines of BRIDGES and implement them through Popsicle
+\n
+\nsticks (ice-cream sticks) and White glue in reality.
+\n
+\nRules:
+\n
+\n? Each team comprises maximum three members.
+\n
+\n? Entry fee for the event Rs.90/- per team.
+\n
+\n? The bridge is to contain only of  popsicle sticks joined
+\n
+\n? Nylon thread can be used. (Maximum two meter thread
+\n
+\ntogether with glue (glue will be provided)
+\n
+\nwill be provided).Thread can be used only for joints, but
+\n
+\nwill be removed while testing the bridge during load
+\n
+\ntesting.
+\n
+\n? The bridge must conform to dimension.
+\n
+\n? Time allotted for competition 3.5+1 hours. 3.5 hours
+\n
+\n? Bridges will be weighed before being tested. If there is a
+\n
+\n? Popsicle sticks may be cut. (Note: No cutting tool will be
+\n
+\nin first day for construction of the bridge, 1 hour in
+\n
+\nsecond day for decorating before the final submission.
+\n
+\nParticipants can use total of 4.5 hours in the first day if
+\n
+\nthey want to complete it in the first day itself, but for
+\n
+\nthem no extra time will be given.
+\n
+\ntie, lightest bridge wins.
+\n
+\nprovided)
+\n
+\n? The width of the bridge will be designed in such a way
+\n
+\n? Pinning, clamping, or non-white glue is not allowed to be
+\n
+\n? There must be a banner with information on the
+\n
+\n? Participants may decorate their bridge without influences
+\n
+\nthat at least two “Matchbox” sized toy car must be able
+\n
+\nto be rolled across the bridge on the bridge deck.
+\n
+\nused for connections. Failure to able by this rule will
+\n
+\nresult in disqualification.
+\n
+\nparticipants.
+\n
+\non Structural part. No such object will be provided.
+\n
+\nDimensions:
+\n
+\n                  The bridge has to span across 500mm.We
+\n
+\nrecommend the overall length of the structure to be at least
+\n
+\n550mm.The minimum height of the bridge is 110mm and
+\n
+\nmaximum is 200mm. The bridge deck must be covered.
+\n
+\nMeasuring tapes will not be provided.
+\n
+\nMATERIALS:
+\n
+\n                       The materials for the bridge construction that will
+\n
+\nbe provided are as follows:
+\n
+\n1.200 Popsicle sticks
+\n
+\n2. White glue (about 100gm)
+\n
+\n3. Nylon Thread
+\n
+\nBRIDGE DECK MATERIAL:
+\n
+\n                        Bridge deck should be made by suitable
+\n
+\nmaterial (like construction paper, mount board piece, A1
+\n
+\nsheet).Use of plywood is strictly prohibited.
+\n
+\nSCORING:
+\n
+\nLoad Bearing capacity of Structure        ------ Marks as per
+\n
+\nloading
+\n
+\nAesthetics                                                  ------   25 marks
+\n
+\nJudges consideration                               -------   25 marks
+\n
+\nBRIDGES LOAD TESTING:
+\n
+\n                        The way of bridge testing will be announced on
+\n
+\nthe first day of the event.
+\n
+\nNOTE:
+\n
+\n                     Organizers have every right to disqualify the
+\n
+\nbridge if it is not according to the rules and regulations
+\n
+\nand also if the participants are found tampering with the
+\n
+\nconduct.
+\n
+\nCONTACTS:
+\n
+\nRegarding any queries, feel free to contact with any of the
+\n
+\nfollowing technical heads:
+\n
+\nSourav Lakhotia    83459042525
+\n
+\nRounak Isor        9046534429"
+            android:padding="15dp"/>
+
+
+
+    </LinearLayout>
+</ScrollView>

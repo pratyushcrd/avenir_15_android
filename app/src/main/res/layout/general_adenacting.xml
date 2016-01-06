@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Many a small thing has been made large by the right kind of advertising. And so is the reverse.
+\n
+\nYou
+\n
+\ngot to do what it takes to sell. This event gives you not just a chance to create advertisements
+\n
+\nbut to
+\n
+\nact it out. You are the ‘Ad-Guru’ and the Brand Ambassador. Slice is selling on its ‘Ras ki Holi’
+\n
+\nwhile
+\n
+\nIdea has got the entire nation humming ‘You’re My Honey-bunny!’. What will your product sell
+\n
+\nfor?
+\n
+\nShow us!
+\n
+\nRules and Regulations:
+\n
+\nGeneral ~
+\n
+\nEach team can consist of a maximum of 3 members.
+\n
+\nOnce a product (on which the ad is supposed to be made) is given, no team shall ask/request
+\n
+\nfor an alternative.
+\n
+\nImprovisation is allowed, but the advertised product must remain the same as specified.
+\n
+\nThe advertisement can be in any language or even multi-lingual.
+\n
+\nAny team making use of illicit/vulgar language will be disqualified.
+\n
+\nPrelims ~
+\n
+\nRandom topics (names of products to be endorsed) will be given on spot.
+\n
+\nEach team will get a maximum of 5 minutes to prepare their act.
+\n
+\nTime limit for the presentation of each act is 1 and a half minutes.
+\n
+\nFinals ~
+\n
+\nThere will be one common topic for every finalist team, given well in advance.
+\n
+\nThe time limit for each act is 2 minutes.
+\n
+\nThe teams are allowed to use props in the finals. However, they should make all
+\n
+\narrangements of the prop and Avenir will not provide them with any requisites.
+\n
+\nJudging Parameters:
+\n
+\nEffective Utilization of Time.
+\n
+\nCommunication skills-Do others understand it?
+\n
+\nCreativity-Is there anything original, different and unique about the act?
+\n
+\nMarketing skills-Is the act convincing enough for us to want to buy it?"
+            android:padding="15dp"/>
+
+
+    </LinearLayout>
+</ScrollView>

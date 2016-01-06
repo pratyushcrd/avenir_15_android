@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="‘Adventure’ is that what makes your blood race… Want to conquer mountains,,, or the
+\n
+\ntreacherous sea,,, deserts,,, or some unknown land full of unexpected objects…
+\n
+\nWell here’s your chance… Build a manually controlled robot that can traverse through
+\n
+\nhazardous terrains in minimum time…
+\n
+\n
+\n
+\nPROBLEM STATMENT:
+\n
+\nBuild a manually controlled robot (wired or wireless) that can traverse through terrains.
+\n
+\nGAMEPLAY:
+\n
+\nThe bot has to traverse through a path filled with hurdles like water, sand, oil, spiked path, rotating
+\n
+\ndiscs, inclined plane etc. in the minimum possible time.
+\n
+\nThere may be broken paths in the arena where the bot has to push a flap bridge to make its way.
+\n
+\nRULES:
+\n
+\nGENERAL RULES:
+\n
+\n? The maximum team size is 4.
+\n
+\n? Participants must be students of same or different institutes.
+\n
+\n? No participant can be a member of two teams.
+\n
+\n? No two teams can share the same robot.
+\n
+\n? In case of any component failure or power failure or any other faults that appear on the
+\n
+\nrobot during its actual run, for which the participants are responsible, they may choose
+\n
+\nto take a ‘technical time out’ of 2 mins. or a restart, both of which will cause loss in
+\n
+\npoints.
+\n
+\n? Team members will not be allowed to touch any part of arena, only organizer are allowed
+\n
+\nto handle the arena in any situation, the team will be disqualified whose member found
+\n
+\ntouching arena.
+\n
+\n? You are not allowed to make any changes to your bot once the game has started.
+\n
+\n? Participants will be provided with standard 220V, 50 Hz ac supply.
+\n
+\n? Lego kits or its spare part or pre-made mechanical parts are not allowed.
+\n
+\n? The score and position of the bot after it completes the run will be disclosed to the
+\n
+\nparticipants after there bot completes the run.
+\n
+\n? Participants must carry valid college id proof.
+\n
+\n? The event coordinator is free to make any change to the above rules at any time. Any such
+\n
+\nchange will be duly notified to the participants as and when required. The decision of the
+\n
+\nevent coordinator will be final and binding.
+\n
+\nEVENT RULES:
+\n
+\n? The bot will be awarded 1000 points at the start of the run.
+\n
+\n? Before the final run the bot will be allowed to take a trial run.
+\n
+\n?  There will be checkpoints in the path. For crossing each check point the bot will be
+\n
+\nawarded 50 points.
+\n
+\n? There will be no bot’s zone in the arena. If the bot touches the no bot’s zone then 10
+\n
+\npoints will be deducted.
+\n
+\n? A bot can take 10 hand-touch and 2 restarts. 50 points will be deducted for each
+\n
+\nrestart and 20 points for each hand-touch.
+\n
+\n? In case of hand-touch the bot will have to start from the last crossed checkpoint.
+\n
+\n? In case of any technical difficulty team can take a technical timeout of 2 mins. 30
+\n
+\npoints will be deducted for technical timeout.
+\n
+\n? The bot may finish the track on the stage by displaying their unique move. If the
+\n
+\nparticipants doesn’t want to do this then no points will be deducted. But participants
+\n
+\nwho can showoff unique moves of their bots will be awarded an extra 20 points.
+\n
+\n? The final score of the bot will be given as:
+\n
+\n1000+(no of checkpoints)*50+(unique move)*20-(no of no bot’s zone touches)*10-
+\n
+\n(no of hand-touch)*20-(no of restart)*20-(technical timeout)*30-time taken in sec.
+\n
+\n? If the bot or any team member causes any damage to arena then it will be disqualified
+\n
+\nthen and there.
+\n
+\nROBOT SPECIFICATION:
+\n
+\n? Dimensions of the robot should not exceed 30cm X 30cm X 30cm.
+\n
+\n? The robot can use on-board or external power supply.
+\n
+\n? The Voltage anywhere in the circuit should not exceed 24 V DC.
+\n
+\n? The robot cannot be constructed using readymade Lego kits or any readymade
+\n
+\nmechanisms.
+\n
+\n? Robot can be wired or wireless controlled but AVENIR 2015 will not be responsible for any
+\n
+\ninterference caused. In case of wired, the wire should remain slack throughout the game.
+\n
+\n? The weight of robot must not exceed 4kg.
+\n
+\nContacts:
+\n
+\n?  Taiseer Hasan  – +(91)8981460559 7.
+\n
+\n?  Atul Pandey -+(91) 8420843710"
+            android:padding="15dp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:src="@drawable/terra1"
+            android:padding="0dp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:src="@drawable/terra2"
+            android:layout_marginTop="1dp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:src="@drawable/terra3"
+            android:layout_marginTop="1dp"/>
+
+    </LinearLayout>
+</ScrollView>

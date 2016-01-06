@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="HAD ENOUGH OF RAKSHIT, GAEKWAD AND ALL OTHER THEORY BOOKS THINK YOU KNOW
+\n
+\nEVERYTHING TO BRING TO LIFE ANY ELECRONIC CIRCUIT
+\n
+\nIF YES, THEN CONTRIVE 2K14 IS THE PLACE TO BE
+\n
+\nAll you need to do is finish of a basic MCQ PAPER, devise the simple circuit needed to be made in the
+\n
+\nquickest time, pass a few interview rounds..and you\'re the winner. SOUNDS EASY
+\n
+\nLets see it then!! Come to CONTRIVE, THE ANNUAL CIRCUIT DESIGN COMPETITION, AND
+\n
+\nTEST YOURSELF OUT, COZ ITS GONNA BE BIGGER BETTER, AND TRICKIER THIS YEAR!
+\n
+\nRefer to the RULES section for complete set of rules and instruction.
+\n
+\nRules and Regulations:
+\n
+\n The complete event is an on spot event and all the rounds would be held at Netaji
+\n
+\nSubhash Engineering College, Kolkata during Avenir 2014.
+\n
+\n Contrive is restricted to students currently pursuing their education in any
+\n
+\nrecognized educational institute.
+\n
+\n A maximum of 3 participants can combine to form a team.
+\n
+\n Students from different colleges can be a part of the same team.
+\n
+\n The competition will be held in three stages
+\n
+\nRounds :
+\n
+\nRound 1 ~
+\n
+\nThis round will consist of 30-40 multiple choice questions related to basic electrical and
+\n
+\nelectronics. Each team will have to solve these questions in the given time.
+\n
+\nRound 2 ~
+\n
+\n In this round each team will be given a task of making a circuit related to Analog and
+\n
+\nDigital Electronics.
+\n
+\n Each team will be given a multi-meter and a regulated DC power supply.
+\n
+\n Team will have to make the circuit out of the GIVEN components only.
+\n
+\n Before connecting the power supply, the circuit must be checked and approved by the
+\n
+\njudges.
+\n
+\nTHIS ROUND TOO IS CLOCKED
+\n
+\nRound 3 ~
+\n
+\nTHE FINAL ROUND...
+\n
+\nThis is the Group Interview Round in which each team will be questioned by the judges on the basis
+\n
+\nof the circuit made by the respective group.
+\n
+\nJudging Parameters :
+\n
+\nThe winner will be selected on the basis of the score secured by the respective groups in Rounds 2
+\n
+\nand 3 jointly.
+\n
+\nIn all the cases the decision taken by the judges will be final."
+            android:padding="15dp"/>
+
+
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="How confident are you about your standpoint How good are you at convincing opposing masses
+\n
+\nDo you think you have it in you to battle it out on the stage If yes, come show us.
+\n
+\nLet the war of words begin!
+\n
+\nRules and Regulations:
+\n
+\n Every participant gets only one chance.
+\n
+\n Once a topic is given, no participant should ask for an alternative option.
+\n
+\n A student making use of offensive language will be disqualified.
+\n
+\n Oration will be of 5 minutes maximum
+\n
+\n Judges decision will be final
+\n
+\n Every participant should conclude their speech within the allotted time limit
+\n
+\nRounds:
+\n
+\nPrelims ~
+\n
+\nWhile event-registration, every participant will be given a random topic, which will be noted down,
+\n
+\nbeside their name.
+\n
+\nThen, they get a maximum of 15 minutes to prepare their speech. The speech should not exceed 1.5
+\n
+\nminutes.
+\n
+\nFinals ~
+\n
+\nThe 10 participants, selected from the prelims, will be given the final dispute ,the topic for which will
+\n
+\nbe declared THE DAY BEFORE THE FINALS.
+\n
+\nOne of The Judges will deliver a speech on the topic in general representing a general view. An
+\n
+\nadditional 30 min will be given to the participants to prepare the speech.
+\n
+\nTheir position regarding for or against will be chosen by a lottery system. The speech should not
+\n
+\nexceed 5 minutes."
+            android:padding="15dp"/>
+
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,208 @@
+<ScrollView  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:padding="12dp"
+    android:orientation="vertical"
+    tools:context="creed.phoenix.avenir15.AboutFrag">
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/card_background"
+        android:layout_marginTop="65dp"
+        android:padding="14dp"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight=".7"
+            android:padding="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="About College" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_marginTop="6dp"
+                android:layout_height="wrap_content"
+                android:text="@string/about_clg1" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="0dp"
+            android:adjustViewBounds="true"
+            android:layout_height="wrap_content"
+            android:src="@drawable/nsec"
+            android:layout_weight=".3" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/card_background"
+        android:layout_marginTop="10dp"
+        android:padding="14dp"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight=".7"
+            android:padding="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Phoenix" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:autoLink="all"
+                android:text="@string/about_ph" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="0dp"
+            android:adjustViewBounds="true"
+            android:layout_height="wrap_content"
+            android:src="@drawable/phoenix"
+
+            android:layout_weight=".3" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/card_background"
+        android:layout_marginTop="10dp"
+        android:padding="14dp"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight=".7"
+            android:padding="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Design and Development" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_marginTop="6dp"
+                android:layout_height="wrap_content"
+                android:autoLink="all"
+                android:text="@string/about_dev" />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="0dp"
+            android:adjustViewBounds="true"
+            android:layout_height="wrap_content"
+            android:src="@drawable/pratyush"
+
+            android:layout_weight=".3" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/card_background"
+        android:layout_marginTop="10dp"
+        android:padding="14dp"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight=".7"
+            android:padding="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Associate Developer and Editor" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_marginTop="6dp"
+                android:layout_height="wrap_content"
+                android:autoLink="all"
+                android:text="@string/about_asst." />
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="0dp"
+            android:adjustViewBounds="true"
+            android:layout_height="wrap_content"
+            android:src="@drawable/prashant"
+
+            android:layout_weight=".3" />
+
+    </LinearLayout>
+
+
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/card_background"
+        android:layout_marginTop="10dp"
+        android:padding="14dp"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="5dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Contacts" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_marginTop="6dp"
+                android:layout_height="wrap_content"
+                android:autoLink="all"
+                android:text="@string/about_contacts" />
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+</LinearLayout>
+</ScrollView>

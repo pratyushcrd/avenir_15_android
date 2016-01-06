@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="200dp" android:layout_width="match_parent">
+    <LinearLayout
+        android:layout_height="match_parent" android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:padding="2dp">
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Painting your own body has been a very popular method of expressing yourself since time
+\n
+\nimmemorial.
+\n
+\nAvenir 2015 gives you the opportunity to express your artistic abilities using the face of a willing
+\n
+\nfriend as the canvas!
+\n
+\nUnleash your creativity! And may the best win!
+\n
+\nTHEME:
+\n
+\nThe good news here is the Artist can select any theme according to their will. This year it will be
+\n
+\nan
+\n
+\nOpen Theme event!
+\n
+\nNOTE: Each Competitor has to give a theme/ name to their work and has to present a short
+\n
+\nexplanation about the art in front of the Judge.
+\n
+\nRULES AND REGULATIONS:
+\n
+\nEach competitor must supply all of his or her own face painting supplies including paints,
+\n
+\nbrushes,
+\n
+\nrinse water for brushes, water container, sponges, sponge-tipped applicators and other tools
+\n
+\nand
+\n
+\nsupplies necessary to complete the task. Competitors may not share paints or other supplies
+\n
+\nduring
+\n
+\ncompetition. Models will be the responsibility of the competitor. Competitors may not use photos
+\n
+\nor
+\n
+\ndrawings to refer to while painting. All designs will be painted free-hand. Competitors are
+\n
+\nencouraged to become familiar with the rules well in advance of the competition. Not following
+\n
+\nthe
+\n
+\nrules may result in point reduction or complete disqualification from the competition.
+\n
+\nCompetitors MAY USE any or all of the following items:
+\n
+\nProfessional makeup (cosmetics) and paint products safe for the skin. Products may be
+\n
+\napplied wet or dry.
+\n
+\nSkin-safe adhesives and adhesive removers Paint brushes, makeup brushes, sponges, sponge-
+\n
+\ntipped applicators, a stylus (a tool that
+\n
+\nmakes “dots”). The end of a paint brush may also be used to make dots.
+\n
+\nGlitter in loose, gel, or liquid form (glitter must be polyester glitter only)
+\n
+\nGemstones (stones may have adhesive backing or be applied with skin-safe adhesive)
+\n
+\nLoose and Pressed Powders, including Shimmer Powders
+\n
+\nFeathers (to be used on the face only, not in the hair)
+\n
+\nNOTE: Participants will have to bring their own equipment and choose their Model beforehand.
+\n
+\nSUPPLIES:
+\n
+\nPAINTING RULES:
+\n
+\n• Competitor will have 2 hours complete the full face design. No part of the design may be
+\n
+\napplied
+\n
+\nto the model’s face prior to the starting of the time clock for this competition period.
+\n
+\n• Competitor must have at least a portion of the design on all or part of each of the four
+\n
+\nquadrants
+\n
+\nof the face for the design to be considered a Full Face design. See drawing below of the four
+\n
+\napproved design quadrants of the face.
+\n
+\n• Design may include the ears, but does not have to include the ears.
+\n
+\n• Model’s hair may not be used to enhance the design. Design must not extend past the natural
+\n
+\nhairline of the model. If the model is bald, the design must stop where the natural hairline once
+\n
+\nwas.
+\n
+\n• The hair may be clipped or pinned back from the face to fully expose the design area.
+\n
+\n• Design may not extend down the neck or onto the chest, shoulders or back area of the model.
+\n
+\nJudges’ decision is final and irrevocable!"
+            android:padding="15dp"/>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:padding="0dp"/>
+
+    </LinearLayout>
+</ScrollView>
